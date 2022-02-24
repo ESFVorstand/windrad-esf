@@ -2,8 +2,8 @@
 # .DS_Store
 
 # Generated files by hugo
-/public/
-/resources/_gen/
+# /public/
+# /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
 
