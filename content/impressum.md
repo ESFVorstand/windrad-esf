@@ -32,8 +32,8 @@ th@energie-stammtisch-freigericht.de<br />
 Freigericht<br />
 <br />
 Kassierer:<br />
-Karsten Schneider<br />
-ks@energie-stammtisch-freigericht.de<br />
+Norbert Baum<br />
+info@energie-stammtisch-freigericht.de<br />
 Freigericht</p>
 
 <h2>Kontakt</h2>
