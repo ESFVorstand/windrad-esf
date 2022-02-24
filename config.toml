@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://tender-brahmagupta-acd353.netlify.app"
+baseURL = "http://windenergie-freigericht.de"
 title = "Windenergie Freigericht"
 languageCode = "de"
 theme = "bookworm-light"
