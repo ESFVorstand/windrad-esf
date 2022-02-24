@@ -46,6 +46,10 @@ what_i_do:
     description: "Wir haben uns zu Objektivität und Sachlichkeit verpflichtet. Das bedeutet für uns, dass wir unser Handeln nicht von persönlichen Interessen oder Gefühlen be\u00ADeinflussen lassen. Was für uns zählt, sind belastbare Fakten."    
  
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+Angeregt durch die Entscheidung im Freigerichter Gemeinde Parlament, die Aufstellung von Windenergie – Anlagen in der Vorrangfläche im Freigerichter Wald voranzubringen, hat sich der Energie-Stammtisch Freigericht e.V. dazu entschlossen, eine ESF Arbeitsgruppe Windenergie ins Leben zu rufen.  
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis. TEST
+Der Arbeitsgruppe ist es wichtig, sich als Windenergie-Befürworter  in die Diskussionen einzumischen und sachlich viele Informationen zum Thema Windenergie aufzuarbeiten und einem Fakten-Check zu unterziehen. Sehr schnell haben sich Teilnehmer aus den Reihen der ESF Mitglieder gefunden und ganz besonders freuen wir uns, dass durch die Gründung der Arbeitsgruppe einige Neumitglieder den Weg zum ESF gefunden haben.  
+
+Die Arbeitsgruppe sieht sich verpflichtet, sachlich und objektiv zu informieren, Fakten darzulegen und Fragen aufzugreifen, sowie diese mit Quellen-Angaben zu beantworten. Auch soll es eine Rubrik von A – Z zum Thema Windenergie geben.  
+
+Allen in der Arbeitsgruppe geht es um das Gelingen der Energiewende... ganz nach dem Slogan: Energiewende jetzt, wir haben keine Zeit zu verlieren!
