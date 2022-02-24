@@ -1,7 +1,7 @@
 ---
 title: "Windenergie genießt breite Zustimmung in der Bevölkerung"
 image: ""
-date: 2022-02-03T12:00:00+05:00
+date: 2021-08-27T12:00:00+05:00
 author: "Energie Stammtisch Freigericht"
 tags: ["Lesebrief", "Windenergie", "Freigericht"]
 categories: ["Leserbrief"]
