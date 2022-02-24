@@ -20,5 +20,5 @@ Ein 14-köpfiges Team hat sich zusammen&shy;gefunden, um auch in Freigericht ein
 
 Die Energiewende muss auch in Freigericht gelingen und dazu gehören nicht nur Diskussionen und Über&shy;legungen zu Photovoltaik-Groß&shy;flächen&shy;anlagen, sondern auch ganz besonders die Über&shy;prüfung der Wind-Vorrangfläche in Freigericht auf Machbarkeit entsprechend dem Beschluss im Gemeinde&shy;parlament.  
   
-Bildnachweis dieser Seite:  
--- ## --
+<!-- TODO: Bildnachweis dieser Seite:  
+-- ## -- -->
