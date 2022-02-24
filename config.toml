@@ -124,7 +124,7 @@ input_placeholder = "Enter your email"
 
 # cookies
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 
 
