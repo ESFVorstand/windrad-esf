@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://gallant-albattani-769520.netlify.app"
+baseURL = "http://www.windenergie-freigericht.de"
 title = "Windenergie Freigericht"
 languageCode = "de"
 theme = "bookworm-light"
@@ -190,10 +190,10 @@ name = "Impressum"
 url = "impressum/"
 weight = 4
 
-[[menu.footer]]
-name = "Kontakt"
-url = "kontakt/"
-weight = 5
+#[[menu.footer]]
+#name = "Kontakt"
+#url = "kontakt/"
+#weight = 5
 
 # Social Icons
 #[[params.social]]
