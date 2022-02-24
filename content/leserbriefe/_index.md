@@ -6,6 +6,13 @@ draft: false
 
 
 
+### 03.02.2022 - Mit mehr Windenergie in eine sichere Zukunft
+Papa, wo warst du, als es einer kleinen Minderheit gelang, Windenergie- und Photovoltaikanlagen unter dem Deckmantel …
+
+[zum Leserbrief]({{< ref "/leserbriefe/2022-02-03 Mit mehr Windenergie in eine sichere Zukunft.md" >}} "Leserbrief")
+
+<hr>
+
 ### 02.02.2022 - Diskussionen zu Windkraftanlagen im Freigerichter Wald
 Für die Energiewende mit Windkraftanlagen! - Stoppt den Klimawandel und damit die Waldzerstörung durch Windbruch, Trockenheit und starke Stürme!
 
