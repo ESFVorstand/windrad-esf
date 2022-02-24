@@ -1,7 +1,7 @@
 {{ define "main"}}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") (eq .Section "leserbriefe") }}
 
 <section class="section-sm">
   <div class="container">
@@ -11,14 +11,16 @@
           <h3 class="h2 mb-4 post-title">{{.Title}}</h3>
           <ul class="card-meta list-inline">
             <li class="list-inline-item">
-              <a href="#!" class="card-meta-author">
+              <span class="card-meta-author">
                 {{ with .Site.GetPage (.Params.author | urlize | lower) }}
                 <a href="{{.Permalink}}" class="card-meta-author">
                   {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
                   <span>{{.Title}}</span>
                 </a>
+                {{ else }}
+                {{ .Params.author }}
                 {{ end }}
-              </a>
+              </span>
             </li>
             <li class="list-inline-item">|</li>
             <li class="list-inline-item">
@@ -33,25 +35,39 @@
         </div>
         {{ end }}
 
-        <div class="content">
+        <div class="content text-justify">
           {{.Content}}
         </div>
       </div>
     </div>
 
+    {{ if (eq .Section "leserbriefe") }}
+    <div>
+      <hr />
+      <div class="font-weight-bold">
+        Leserbrief zum Thema „{{ .Params.topic }}“ von {{ .Params.author }}{{ if .Params.residence }} ({{ .Params.residence }}){{ end }}, {{.PublishDate.Format "02.01.2006"}}
+      </div>
+      <hr />
+      <a href="/leserbriefe/">
+        <i class="las la-undo text-primary mr-1"></i>
+        zurück zur Übersicht
+      </a>
+    </div>
+    {{ end }}
+
     <div class="single-post-meta">
       <div class="row justify-content-center">
-        <div class="col-lg-5 col-md-6 text-center text-md-left">
+        <div class="col-lg-10 col-md-12 text-center text-md-left">
           <ul class="post-meta-tags list-unstyled list-inline">
             {{range .Params.tags}}
             <li class="list-inline-item"><a href="{{`tags` | absURL}}/{{.| urlize}}">{{.}}</a></li>
             {{end}}
           </ul>
         </div>
-        <div class="col-lg-5 col-md-6 text-center text-md-right mt-4 mt-md-0">
+        <!-- <div class="col-lg-5 col-md-6 text-center text-md-right mt-4 mt-md-0">
 
-          <!-- {{- partial "post-share.html" . -}} -->
-        </div>
+          {{- partial "post-share.html" . -}}
+        </div> -->
       </div>
     </div>
 
@@ -107,7 +123,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-12">
-        <div class="content">
+        <div class="content text-justify">
           {{.Content}}
         </div>
       </div>

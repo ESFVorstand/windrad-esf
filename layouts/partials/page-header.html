@@ -3,6 +3,7 @@
     <div class="row">
       <div class="col-8 mx-auto text-center">
 
+        {{ if (ne .Section "leserbriefe") }}
         {{ if or (eq .Section "tags") (eq .Section "categories") }}
         {{ if or (eq .Permalink (`tags/` | absURL)) (eq .Permalink (`categories/` | absURL)) }}
         <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>
@@ -14,6 +15,10 @@
         {{ end }}
 
         <ul class="list-inline breadcrumb-menu">
+        {{ else }}
+        <ul class="list-inline">
+        {{ end }}
+
           {{ $url := replace .Permalink ( printf "%s" site.BaseURL) "" }}
           {{ $.Scratch.Add "path" site.BaseURL }}
           {{ $title := .Title }}

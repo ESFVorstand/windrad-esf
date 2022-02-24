@@ -16,6 +16,8 @@
           {{end}}
           <span>{{ .Title }}</span>
         </a>
+        {{ else }}
+        {{ .Params.author }}
         {{ end }}
       </li>
       <li class="list-inline-item mb-2">
