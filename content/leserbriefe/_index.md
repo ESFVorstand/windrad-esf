@@ -5,6 +5,13 @@ draft: false
 ---
 
 
+### 11.02.2022 - Energie für Veränderung
+Windenergieprojekte unterstütze ich grundsätzlich (natürlich ist bei der Planung auf wirtschaftliche Tragfähigkeit …
+
+[zum Leserbrief]({{< ref "/leserbriefe/2022-02-11 Energie für Veraenderung.md" >}} "Leserbrief")
+
+<hr>
+
 
 ### 03.02.2022 - Mit mehr Windenergie in eine sichere Zukunft
 Papa, wo warst du, als es einer kleinen Minderheit gelang, Windenergie- und Photovoltaikanlagen unter dem Deckmantel …
