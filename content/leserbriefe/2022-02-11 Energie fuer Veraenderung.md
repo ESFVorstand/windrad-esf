@@ -1,7 +1,7 @@
 ---
 title: "Energie für Veränderung"
 image: ""
-date: 2022-02-03T12:00:00+05:00
+date: 2022-02-11T12:00:00+05:00
 author: "Energie Stammtisch Freigericht"
 tags: ["Leserbrief", "Windenergie", "Freigericht"]
 categories: ["Leserbrief"]
