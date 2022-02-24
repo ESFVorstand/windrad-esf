@@ -1,7 +1,7 @@
 ---
 title: "Diskussionen zu Windkraftanlagen im Freigerichter Wald"
 image: ""
-date: 2022-02-22T12:00:00+05:00
+date: 2022-02-02T12:00:00+05:00
 author: "Energie Stammtisch Freigericht"
 tags: ["Lesebrief", "Windenergie", "Freigericht"]
 categories: ["Leserbrief"]
