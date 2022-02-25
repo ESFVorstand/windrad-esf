@@ -190,10 +190,10 @@ name = "Impressum"
 url = "impressum/"
 weight = 4
 
-#[[menu.footer]]
-#name = "Kontakt"
-#url = "kontakt/"
-#weight = 5
+[[menu.footer]]
+name = "Kontakt"
+url = "kontakt/"
+weight = 5
 
 # Social Icons
 #[[params.social]]
