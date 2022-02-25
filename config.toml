@@ -142,7 +142,7 @@ weight = 2
 
 [[menu.main]]
 name = "Leserbriefe"
-url = "tags/leserbrief/"
+url = "categories/leserbriefe/"
 weight = 3
 
 [[menu.main]]

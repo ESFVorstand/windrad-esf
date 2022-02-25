@@ -4,7 +4,7 @@ image: ""
 date: 2021-11-11T12:00:00+05:00
 author: "Birgit Hertlein"
 tags: ["Leserbrief", "Windenergie", "Freigericht"]
-categories: ["Leserbrief"]
+categories: ["Leserbriefe"]
 draft: false
 topic: "Windenergie in Freigericht"
 residence: "Freigericht"
