@@ -8,6 +8,6 @@ tags = ['blog', 'light', 'bootstrap', 'responsive', 'contact-form']
 features = ['responsive']
 min_version = "0.80.0"
 
-[author]
-name = "gethugothemes"
-homepage = "https://gethugothemes.com/"
+#[author]
+#name = "gethugothemes"
+#homepage = "https://gethugothemes.com/"
