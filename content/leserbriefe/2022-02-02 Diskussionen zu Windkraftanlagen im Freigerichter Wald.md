@@ -3,7 +3,7 @@ title: "Diskussionen zu Wind\u00ADkraft\u00ADanlagen im Frei\u00ADgerichter Wald
 image: ""
 date: 2022-02-02T12:00:00+05:00
 author: "Josef Keller"
-tags: ["Leserbrief", "Windenergie", "Freigericht"]
+tags: ["Windenergie", "Freigericht"]
 categories: ["Leserbriefe"]
 draft: false
 topic: "Wind\u00ADkraft\u00ADanlagen in Frei\u00ADgericht"

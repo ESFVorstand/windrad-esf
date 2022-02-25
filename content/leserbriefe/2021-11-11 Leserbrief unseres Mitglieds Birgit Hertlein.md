@@ -3,7 +3,7 @@ title: "Leserbrief unseres Mitglieds Birgit Hertlein"
 image: ""
 date: 2021-11-11T12:00:00+05:00
 author: "Birgit Hertlein"
-tags: ["Leserbrief", "Windenergie", "Freigericht"]
+tags: ["Windenergie", "Freigericht"]
 categories: ["Leserbriefe"]
 draft: false
 topic: "Windenergie in Freigericht"

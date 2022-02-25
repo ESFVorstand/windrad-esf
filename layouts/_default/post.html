@@ -32,7 +32,9 @@
       </li>
     </ul>
     <h3 class="mb-3">
-      {{ if (in .Params.categories "Faktencheck") }}
+      {{ if (in .Params.categories "Leserbriefe") }}
+        <a class="post-title" href="{{.Permalink}}">Leserbrief: {{.Title}}</a>
+      {{ else if (in .Params.categories "Faktencheck") }}
         <a class="post-title" href="{{.Permalink}}">Faktencheck: {{.Title}}</a>
       {{ else }}
         <a class="post-title" href="{{.Permalink}}">{{.Title}}</a>

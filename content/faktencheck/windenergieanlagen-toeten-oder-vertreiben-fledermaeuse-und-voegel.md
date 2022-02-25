@@ -3,7 +3,7 @@ title: "Windenergieanlagen töten oder vertreiben Fledermäuse und Vögel"
 image: ""
 date: 2022-02-25T12:00:00+05:00
 author: "Energie Stammtisch Freigericht"
-tags: ["Faktencheck", "Fledermäuse", "Vögel", "Rotmilan", "Windenergie", "Freigericht"]
+tags: ["Fledermäuse", "Vögel", "Rotmilan", "Windenergie", "Freigericht"]
 categories: ["Faktencheck"]
 draft: false
 # TODO: korrekturlesen sebix

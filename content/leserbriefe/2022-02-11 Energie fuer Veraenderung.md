@@ -3,7 +3,7 @@ title: "Energie für Veränderung"
 image: ""
 date: 2022-02-11T12:00:00+05:00
 author: "Andreas Hlasseck"
-tags: ["Leserbrief", "Windenergie", "Freigericht"]
+tags: ["Windenergie", "Freigericht"]
 categories: ["Leserbriefe"]
 draft: false
 topic: "Windenergie"
