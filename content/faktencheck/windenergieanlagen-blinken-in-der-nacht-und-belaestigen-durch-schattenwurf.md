@@ -1,5 +1,5 @@
 ---
-title: "Die Anlagen stehen immer still "
+title: "Windenergieanlagen blinken in der Nacht und belästigen durch Schattenwurf"
 image: ""
 date: 2022-02-25T13:30:00+05:00
 author: "Energie Stammtisch Freigericht"

@@ -1,5 +1,5 @@
 ---
-title: "Die Anlagen stehen immer still "
+title: "Die Anlagen stehen immer still"
 image: ""
 date: 2022-02-25T13:28:00+05:00
 author: "Energie Stammtisch Freigericht"
