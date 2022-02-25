@@ -2,13 +2,18 @@
 
 <!-- checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") (eq .Section "leserbriefe") (eq .Section "faktencheck") }}
+{{ $section := .Section}}
 
 <section class="section-sm">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-12">
         <div class="text-center mb-5">
-          <h3 class="h2 mb-4 post-title">{{.Title}}</h3>
+          {{ if (eq $section "faktencheck") }}
+            <h3 class="h2 mb-4 post-title">Faktencheck: {{.Title}}</h3>
+          {{ else }}
+            <h3 class="h2 mb-4 post-title">{{.Title}}</h3>
+          {{ end }}
           <ul class="card-meta list-inline">
             <li class="list-inline-item">
               <span class="card-meta-author">
