@@ -32,7 +32,7 @@ what_i_do:
   item:
   - title: "Offenheit"
     icon: "las la-handshake"
-    description: "Vorbehaltlose und ehrliche Kom\u00ADmuni\u00ADka\u00ADtion prägen unsere Aus\u00ADeinander\u00ADset\u00ADzung mit dem Thema Energie\u00ADwende und sind die Basis unseres gemein\u00ADsamen Handelns."
+    description: "Vorbehaltlose und ehrliche Kom\u00ADmuni\u00ADka\u00ADtion prägt unsere Aus\u00ADeinander\u00ADset\u00ADzung mit dem Thema Energie\u00ADwende und ist die Basis unseres gemein\u00ADsamen Handelns. Die rege\u00ADnerative Energie\u00ADgewinnung auf unseren Wind\u00ADvorrang\u00ADflächen kann nur gelingen, wenn wir bereit sind uns für die Zukunft nach\u00ADfolgender Generationen einzusetzen."
 
   - title: "Nachhaltigkeit"
     icon: "las la-solar-panel"
@@ -40,7 +40,7 @@ what_i_do:
 
   - title: "Sachlichkeit"
     icon: "las la-chart-area"
-    description: "Wir haben uns zu Objektivität und Sachlichkeit verpflichtet. Das be\u00ADdeutet für uns, dass wir unser Handeln nicht von persönlichen Interessen oder Gefühlen be\u00ADein\u00ADflussen lassen. Was für uns zählt, sind belastbare Fakten."
+    description: "Wir haben uns zu Objektivität und Sachlichkeit verpflichtet. Das be\u00ADdeutet für uns, dass wir unser Handeln nicht von persönlichen Interessen oder Gefühlen be\u00ADein\u00ADflussen lassen. Was für uns zählt, sind belastbare Fakten. Nur so kann der ziel\u00ADgerichtete Ausbau der rege\u00ADnerativen Energiegewinnung um\u00ADge\u00ADsetzt werden."
 
 ---
 
