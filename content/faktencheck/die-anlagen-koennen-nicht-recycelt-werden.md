@@ -3,7 +3,7 @@ title: "Die Anlagen Können nicht recycelt werden"
 image: ""
 date: 2022-02-25T13:29:00+05:00
 author: "Energie Stammtisch Freigericht"
-tags: ["Fledermäuse", "Vögel", "Rotmilan", "Windenergie", "Freigericht"]
+tags: ["Recycling", "Windenergie", "Freigericht"]
 categories: ["Faktencheck"]
 draft: false
 # TODO: korrekturlesen sebix

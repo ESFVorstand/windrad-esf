@@ -3,7 +3,7 @@ title: "Windenergieanlagen blinken in der Nacht und belästigen durch Schattenwu
 image: ""
 date: 2022-02-25T13:30:00+05:00
 author: "Energie Stammtisch Freigericht"
-tags: ["Fledermäuse", "Vögel", "Rotmilan", "Windenergie", "Freigericht"]
+tags: ["Schattenwurf", "Nachtkennzeichnung", "Windenergie", "Freigericht"]
 categories: ["Faktencheck"]
 draft: false
 # TODO: korrekturlesen sebix

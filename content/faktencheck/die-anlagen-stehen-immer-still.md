@@ -3,7 +3,7 @@ title: "Die Anlagen stehen immer still"
 image: ""
 date: 2022-02-25T13:28:00+05:00
 author: "Energie Stammtisch Freigericht"
-tags: ["Fledermäuse", "Vögel", "Rotmilan", "Windenergie", "Freigericht"]
+tags: ["Fossiler Strom", "Stillstand", "Wartungsarbeiten", "Reparaturen", "Windenergie", "Freigericht"]
 categories: ["Faktencheck"]
 draft: false
 # TODO: korrekturlesen sebix
