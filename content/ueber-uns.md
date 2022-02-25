@@ -32,15 +32,15 @@ what_i_do:
   item:
   - title: "Offenheit"
     icon: "las la-handshake"
-    description: "Vorbehaltlose und ehrliche Kom\u00ADmuni\u00ADka\u00ADtion prägt unsere Aus\u00ADeinander\u00ADset\u00ADzung mit dem Thema Energie\u00ADwende und ist die Basis unseres gemein\u00ADsamen Handelns. Die rege\u00ADnerative Energie\u00ADgewinnung auf unseren Wind\u00ADvorrang\u00ADflächen kann nur gelingen, wenn wir bereit sind uns für die Zukunft nach\u00ADfolgender Generationen einzusetzen."
+    description: "Vorbehaltlose und ehrliche Kom\u00ADmuni\u00ADka\u00ADtion prägt unsere Aus\u00ADeinander\u00ADset\u00ADzung mit dem Thema Energie\u00ADwende und ist die Basis unseres gemein\u00ADsamen Han\u00ADdelns. Die rege\u00ADnerative Energie\u00ADgewinnung auf unseren Wind\u00ADvorrang\u00ADflächen kann nur gelingen, wenn wir bereit sind uns für die Zu\u00ADkunft nach\u00ADfolgender Genera\u00ADtionen einzusetzen."
 
   - title: "Nachhaltigkeit"
     icon: "las la-solar-panel"
-    description: "Der ESF setzt sich ein für den ver\u00ADant\u00ADwortungs\u00ADbewussten Umgang mit den endlichen Res\u00ADsour\u00ADcen unserer Erde. Wir engagieren uns gegen den globalen mensch\u00ADgemachten Klima\u00ADwandel und das bereits vor unserer Haustür. Hierzu gehört auch die Förderung von Windenergie als eine der wichtigsten nachhaltigen Energie\u00ADquellen."
+    description: "Der ESF setzt sich ein für den ver\u00ADant\u00ADwortungs\u00ADbe\u00ADwussten Umgang mit den endlichen Res\u00ADsour\u00ADcen unserer Erde. Wir engagieren uns gegen den glo\u00ADbalen mensch\u00ADgemachten Klima\u00ADwandel und das bereits vor unserer Haus\u00ADtür. Hierzu gehört auch die Förderung von Windenergie als eine der wich\u00ADtigs\u00ADten nachhaltigen Energie\u00ADquellen."
 
   - title: "Sachlichkeit"
     icon: "las la-chart-area"
-    description: "Wir haben uns zu Objektivität und Sachlichkeit verpflichtet. Das be\u00ADdeutet für uns, dass wir unser Handeln nicht von persönlichen Interessen oder Gefühlen be\u00ADein\u00ADflussen lassen. Was für uns zählt, sind belastbare Fakten. Nur so kann der ziel\u00ADgerichtete Ausbau der rege\u00ADnerativen Energiegewinnung um\u00ADge\u00ADsetzt werden."
+    description: "Wir haben uns zu Objek\u00ADtivi\u00ADtät und Sach\u00ADlich\u00ADkeit ver\u00ADpflichtet. Das be\u00ADdeutet für uns, dass wir unser Handeln nicht von per\u00ADsön\u00ADlichen Interessen oder Ge\u00ADfühlen be\u00ADein\u00ADflussen lassen. Was für uns zählt, sind be\u00ADlast\u00ADbare Fakten. Nur so kann der ziel\u00ADgerichtete Ausbau der re\u00ADge\u00ADnerativen Energie\u00ADge\u00ADwin\u00ADnung um\u00ADge\u00ADsetzt werden."
 
 ---
 
