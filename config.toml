@@ -146,8 +146,8 @@ url = "tags/leserbrief/"
 weight = 3
 
 [[menu.main]]
-name = "Fakten Check"
-url = "fakten-check/"
+name = "Faktencheck"
+url = "faktencheck/"
 weight = 4
 
 #[[menu.main]]
