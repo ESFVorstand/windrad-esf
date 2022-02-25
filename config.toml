@@ -147,7 +147,7 @@ weight = 3
 
 [[menu.main]]
 name = "Faktencheck"
-url = "faktencheck/"
+url = "categories/faktencheck/"
 weight = 4
 
 #[[menu.main]]

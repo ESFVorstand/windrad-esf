@@ -10,8 +10,6 @@ topic: "Wind\u00ADkraft\u00ADanlagen in Frei\u00ADgericht"
 residence: "Freigericht Horbach"
 ---
 
-<!-- ## Diskussionen zu Wind&shy;kraft&shy;anlagen im Freigerichter Wald -->
-
 ### Für die Energiewende mit Wind&shy;kraft&shy;anlagen!
 
 **Stoppt den Klimawandel und damit die Waldzerstörung durch Windbruch, Trocken&shy;heit und starke Stürme!**

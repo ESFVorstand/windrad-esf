@@ -1,7 +1,7 @@
 {{ define "main"}}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") (eq .Section "leserbriefe") }}
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") (eq .Section "leserbriefe") (eq .Section "faktencheck") }}
 
 <section class="section-sm">
   <div class="container">
@@ -49,6 +49,16 @@
       </div>
       <hr />
       <a href="/categories/leserbriefe/">
+        <i class="las la-undo text-primary mr-1"></i>
+        zurück zur Übersicht
+      </a>
+    </div>
+    {{ end }}
+
+    {{ if (eq .Section "faktencheck") }}
+    <div>
+      <hr />
+      <a href="/categories/faktencheck/">
         <i class="las la-undo text-primary mr-1"></i>
         zurück zur Übersicht
       </a>

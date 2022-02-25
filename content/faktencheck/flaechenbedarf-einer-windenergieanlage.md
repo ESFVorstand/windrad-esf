@@ -1,14 +1,13 @@
 ---
-title: "Faktencheck Flächenbedarf einer Windenergieanlage"
+title: "Flächenbedarf einer Windenergieanlage"
 image: ""
-date: 2021-11-11T12:00:00+05:00
+date: 2022-02-24T12:00:00+05:00
 author: "Energie Stammtisch Freigericht"
 tags: ["Faktencheck", "Flächenbedarf", "Windenergie", "Freigericht"]
 categories: ["Faktencheck"]
 draft: false
+# TODO: korrekturlesen sebix
 ---
-
-## Faktencheck "Flächenbedarf einer Windenergieanlage"
 
 Der Flächenbedarf einer Windkraftanlage teilt sich in folgende Teilflächen auf: 
 
@@ -23,11 +22,3 @@ in der Regel werden dafür bereits vorhandene Wege genutzt beziehungsweise ausge
 
 ### Fazit:
 Es ist korrekt, dass für den Bau einer Windenergieanlage ca. ein Hektar benötigt wird – davon werden aber mehr als die Hälfte wiederaufgeforstet, und dauerhaft versiegelt ist nur die Fundamentfläche von ca. 350 Quadratmeter. Verglichen mit dem jährlichen Waldverlust durch den Klimawandel oder dem Anbau von Energiepflanzen ist der Platzbedarf von Windenergieanlagen verschwindend gering.
- 
-   
-<hr>
-   
-
-
-  
-[zurück zur Übersicht]({{< ref "/faktencheck/" >}} "zurück zur Übersicht")
