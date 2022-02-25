@@ -4,7 +4,7 @@ image: ""
 date: 2022-02-03T12:00:00+05:00
 author: "Andreas Hlasseck"
 tags: ["Leserbrief", "Windenergie", "Freigericht"]
-categories: ["Leserbrief"]
+categories: ["Leserbriefe"]
 draft: false
 topic: "Windenergie"
 residence: "Gelnhausen"

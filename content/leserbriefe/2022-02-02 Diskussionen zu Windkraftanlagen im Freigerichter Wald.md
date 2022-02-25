@@ -4,7 +4,7 @@ image: ""
 date: 2022-02-02T12:00:00+05:00
 author: "Josef Keller"
 tags: ["Leserbrief", "Windenergie", "Freigericht"]
-categories: ["Leserbrief"]
+categories: ["Leserbriefe"]
 draft: false
 topic: "Wind\u00ADkraft\u00ADanlagen in Frei\u00ADgericht"
 residence: "Freigericht Horbach"

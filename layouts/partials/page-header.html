@@ -3,12 +3,12 @@
     <div class="row">
       <div class="col-8 mx-auto text-center">
 
-        {{ if and (ne .Section "leserbriefe") (ne .Title "Leserbrief") }}
+        {{ if and (ne .Section "leserbriefe") (ne .Title "Leserbriefe") }}
           {{ if or (eq .Section "tags") (eq .Section "categories") }}
             {{ if or (eq .Permalink (`tags/` | absURL)) (eq .Permalink (`categories/` | absURL)) }}
               <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>
             {{else}}
-              <h4 class="mb-3 text-dark font-weight-bold">Showing posts from <mark>{{.Title | markdownify}}</mark></h4>
+              <h4 class="mb-3 text-dark font-weight-bold">Beiträge mit der Markierung <mark>{{.Title | markdownify}}</mark></h4>
             {{ end }}
           {{ else }}
             <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>
@@ -27,7 +27,7 @@
           <li class="list-inline-item"><a href="{{site.BaseURL | relLangURL}}">Start</a></li>
           {{ range $index, $element := $urlArray  }}
             {{ $.Scratch.Add "path" $element }}
-            {{ if and (ne $element "") (or (ne $title "Leserbrief") (ne $element "tags")) }}
+            {{ if and (ne $element "") (or (ne $title "Leserbriefe") (ne $element "categories")) }}
               <li class="list-inline-item">
                 / &nbsp;
                 {{ if eq $index (sub (len $urlArray) 1) }}
@@ -38,7 +38,7 @@
                   {{ end }}
                 {{ else }}
                   {{ if (eq $element "leserbriefe") }}
-                    <a href="/tags/leserbrief">{{ . | humanize }}</a>
+                    <a href="/categories/leserbriefe">{{ . | humanize }}</a>
                   {{ else }}
                     <a href="{{ $.Scratch.Get `path` }}">{{ . | humanize }}</a>
                   {{ end }}
