@@ -3,7 +3,7 @@ title: "Flächenbedarf einer Windenergieanlage"
 image: ""
 date: 2022-02-24T12:00:00+05:00
 author: "Energie Stammtisch Freigericht"
-tags: ["Faktencheck", "Flächenbedarf", "Windenergie", "Freigericht"]
+tags: ["Flächenbedarf", "Windenergie", "Freigericht"]
 categories: ["Faktencheck"]
 draft: false
 # TODO: korrekturlesen sebix

@@ -3,7 +3,7 @@ title: "Mit mehr Windenergie in eine sichere Zukunft"
 image: ""
 date: 2022-02-03T12:00:00+05:00
 author: "Andreas Hlasseck"
-tags: ["Leserbrief", "Windenergie", "Freigericht"]
+tags: ["Windenergie", "Freigericht"]
 categories: ["Leserbriefe"]
 draft: false
 topic: "Windenergie"
