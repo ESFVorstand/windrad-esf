@@ -6,7 +6,6 @@ author: "Energie Stammtisch Freigericht"
 tags: ["Fledermäuse", "Vögel", "Rotmilan", "Windenergie", "Freigericht"]
 categories: ["Faktencheck"]
 draft: false
-# TODO: korrekturlesen sebix
 ---
 
 Jede Form der Energieerzeugung, auch der Bau einer Wind&shy;energie&shy;anlage, ist mit Ein&shy;griffen in die Natur und Umwelt ver&shy;bunden. Durch belastbare Unter&shy;such&shy;ungen, eine gute Standortwahl und trag&shy;bare Kom&shy;pen&shy;sa&shy;tions&shy;maßnahmen können po&shy;pu&shy;la&shy;tions&shy;ge&shy;fähr&shy;dende Aus&shy;wirkungen ver&shy;ringert oder sogar vermieden werden. Im Ver&shy;gleich zur fossilen und atomaren Energie&shy;er&shy;zeugung sind die Aus&shy;wir&shy;kungen – bei guter Stand&shy;ort&shy;wahl – auf die biologische Vielfalt deutlich geringer.  
