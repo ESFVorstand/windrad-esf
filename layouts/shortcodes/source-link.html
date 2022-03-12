@@ -1,0 +1,2 @@
+{{ $href:= trim .Inner "\n\r " }}
+<a id="src-{{ .Get 0 }}" href="{{ $href | absURL }}" target="_blank" class="small">{{ .Inner }}</a>

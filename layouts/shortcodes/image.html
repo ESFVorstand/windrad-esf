@@ -29,7 +29,7 @@
 {{ if $caption }}
 <figure class="{{.Scratch.Get `position`}}" role="group" aria-describedby="caption-{{ $caption | markdownify }}">
   <img title="{{$title}}" loading="lazy" decoding="async" src="{{ $imagePath | absURL }}" alt="{{ $alt }}" class="{{$class}} mb-2" width="{{$width}}" height="{{$height}}">
-  <figcaption class="text-center" id="caption-{{ $caption | markdownify }}">{{$caption | markdownify}}</figcaption>
+  <figcaption class="small" id="caption-{{ $caption | markdownify }}">{{$caption | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- cdn image tag -->
@@ -99,7 +99,7 @@
 {{ if $caption }}
 <figure class="{{.Scratch.Get `position`}}" role="group" aria-describedby="caption-{{ $caption | markdownify }}">
   <img title="{{$title}}" loading="lazy" decoding="async" class="{{$class}} mb-2" width="{{$width | default $imageWidth }}" height="{{$height | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{$alt}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `fallback`}}'">
-  <figcaption class="text-center" id="caption-{{ $caption | markdownify }}">{{$caption | markdownify}}</figcaption>
+  <figcaption class="small" id="caption-{{ $caption | markdownify }}">{{$caption | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
