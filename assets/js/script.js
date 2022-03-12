@@ -82,9 +82,9 @@
 
   // Accordions
   $('.collapse').on('shown.bs.collapse', function () {
-    $(this).parent().find('.la-plus').removeClass('la-plus').addClass('la-minus');
+    $(this).parent().find('.la-plus').first().removeClass('la-plus').addClass('la-minus');
   }).on('hidden.bs.collapse', function () {
-    $(this).parent().find('.la-minus').removeClass('la-minus').addClass('la-plus');
+    $(this).parent().find('.la-minus').first().removeClass('la-minus').addClass('la-plus');
   });
 
 // });

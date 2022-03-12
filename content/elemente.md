@@ -16,7 +16,7 @@ Here is example of hedings. You can use this heading by following markdownify ru
 ##### Heading 5
 ###### Heading 6
 
-<hr>
+---
 
 ##### Emphasis
 
@@ -28,7 +28,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-<hr>
+---
 
 ##### Link
 [I'm an inline-style link](https://www.google.com)
@@ -53,13 +53,13 @@ Some text to show that the reference links can follow later.
 [1]: https://gethugothemes.com
 [link text itself]: https://www.getjekyllthemes.com
 
-<hr>
+---
 
 ##### Paragraph
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
 
-<hr>
+---
 
 ##### Ordered List
 
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 4. List item
 5. List item
 
-<hr>
+---
 
 ##### Unordered List
 
@@ -79,7 +79,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 * List item
 * List item
 
-<hr>
+---
 
 #### Notice
 
@@ -113,7 +113,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 {{</ tabs >}}
 
-<hr>
+---
 
 ### Collapse
 
@@ -129,7 +129,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
   This is a simple collapse
 {{< /collapse >}}
 
-<hr>
+---
 
 ##### Code and Syntax Highlighting
 
@@ -145,13 +145,13 @@ s = "Python syntax highlighting"
 print s
 ```
 
-<hr>
+---
 
 ##### Blockquote
 
 > This is a blockquote example.
 
-<hr>
+---
 
 ##### Inline HTML
 
@@ -166,7 +166,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 </dl>
 
 
-<hr>
+---
 
 ##### Tables
 
@@ -187,13 +187,13 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-<hr>
+---
 
 ##### Image
 
 {{< image src="images/post/01.jpg" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
-<hr>
+---
 
 ##### Youtube video
 
