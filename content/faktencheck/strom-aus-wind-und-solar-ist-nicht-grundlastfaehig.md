@@ -8,7 +8,7 @@ categories: ["Faktencheck"]
 draft: true
 ---
 
-*"Strom aus Wind- und Solarquellen kann die bestehende Grundlast – und damit den zu jeder Zeit bestehenden Strombedarf – nicht decken. Die Versorgungssicherheit ist bei gänzlicher Umstellung auf erneuerbare Energien nicht mehr gegeben."*
+>Strom aus Wind- und Solarquellen kann die bestehende Grundlast – und damit den zu jeder Zeit bestehenden Strombedarf – nicht decken. Die Versorgungssicherheit ist bei gänzlicher Umstellung auf erneuerbare Energien nicht mehr gegeben.*
 
 **Die Behauptung (siehe Überschrift) selbst ist korrekt, die damit implizierte Bedeutung (obiger Absatz) hingegen nicht. Die Bedeutung der Grundlast für die Versorgungssicherheit wird in dieser Argumentation falsch bewertet, die Risiken von Ausfallszenarien bei Wind- und Solarenergie (Dunkelflaute) hingegen sowohl hinsichtlich ihres Auftretens als auch ihrer Auswirkung überbewertet.**
 
@@ -18,7 +18,7 @@ draft: true
 
 Die Behauptung ist erst einmal grundsätzlich korrekt: Die Umstellung von konventionellen Kraftwerken auf erneuerbare Quellen geht mit einer Verminderung der Grundlast einher: Ohne Wind keine Windkraft, ohne Sonne keine Solarenergie – bei entsprechend gleichzeitigen Ausfällen (Dunkelflauten) können Windkraft- und Solaranlagen nicht ausreichend Energie liefern, um den bestehenden Strombedarf zu decken. Entstehende Versorgungslücken müssen über den Regelbetrieb ausgeglichen oder – ggf. teuer – am europäischen Strommarkt eingekauft werden. Entscheidend ist aber die Frage, was dies genau bedeutet und welche Risiken für die Netzstabilität sich hieraus ergeben. Hierzu muss eine Reihe weiterer Sachverhalte geprüft werden. Es stellen sich folgende Fragen:
 
-{{< collapse "Welche Bedeutung hat die Grundlast f&uuml;r die Versorgungssicherheit?" >}}
+## Welche Bedeutung hat die Grundlast f&uuml;r die Versorgungssicherheit?
 
 Die Frage, ob die aktuelle Grundlast sich mit erneuerbaren Energien decken ließe, ist irreführend. Die Grundlast spielt für die Versorgungssicherheit nur eine sehr untergeordnete Rolle. Wesentlicher sind die Regulierbarkeit der beteiligten Kraftwerkstypen und die Flexibilität des Stromnetzes, welche in der dritten Fragestellung nochmal separat betrachtet werden.
 
@@ -35,11 +35,11 @@ Dies stellte auch das Büro für Technikfolgen-Abschätzungen (TAB) des Bundesta
 
 *„Der starre Begriff der Grundlast, der aus den Zeiten vor der Liberalisierung des Stromsektors stammt, wird durch die notwendige Flexibilisierung des Kraftwerksparks zunehmend aufgehoben. Der Markt für sogenannte Grundlastkraftwerke mit hoher Auslastung wird durch den Ausbau erneuerbarer Energien deutlich geringer – im Szenario sinkt er bis 2030 auf nur 6 GW. Eine Gegenüberstellung mit der derzeit installierten Bruttoleistung klassischer als Grundlastkraftwerke bezeichneter Braunkohle- und Kernenergiekraftwerke von ca. 29 GW (Bundesnetzagentur 2011) verdeutlicht die Entwicklung.“*  
 ((ITAS), 2012)
-{{< /collapse >}}
+
 
 {{< /collapse >}}
 
-{{< collapse "Wie wahrscheinlich sind simultane Ausfallsereignisse von Wind- und Solarenergie?" >}}
+## Wie wahrscheinlich sind simultane Ausfallsereignisse von Wind- und Solarenergie?
 Wind- und Solarenergie ergänzen sich, wodurch ein Ausgleichseffekt eintritt. (Viel Sonne und wenig Wind im Sommer und umgekehrt im Winter.) Problematisch sind daher vor allem so genannte Dunkelflauten, bei denen weder die Sonne scheint, noch der Wind weht.
 
 Generell sind Dunkelflauten ein zeitlich und vor allem örtlich begrenztes Problem. Ihr Risiko hängt daher vom Grad des Ausbaus beider Energieformen auf einer möglichst großen Fläche ab. Während lokale Dunkelflauten gerade im Winter möglich und wahrscheinlich sind, reduziert sich deren Risiko erheblich, je mehr Windkraft- und Solaranlagen über möglichst große Flächen verteilt gebaut werden. Bereits bei deutschlandweitem Ausbau ist dieses Risiko bereits sehr gering, bei europaweiter Betrachtung um das zehnfache geringer.
@@ -61,9 +61,9 @@ Ausgehend von einem Kapazitätsfaktor von 15% (d.h. die Kraftwerke erbrächten m
 
 {{< /collapse >}}
 
-{{< /collapse >}}
 
-{{< collapse "Welchen Einfluss hat der zunehmende Ausbau schwankender Energiequellen auf die Versorgungssicherheit?" >}}
+
+## Welchen Einfluss hat der zunehmende Ausbau schwankender Energiequellen auf die Versorgungssicherheit?
 Die Versorgungssicherheit kann langfristig auch im Hinblick auf eine komplett erneuerbare Energie-versorgung erhalten und sogar verbessert werden. Die Energiewende erfordert hierfür allerdings einen massiven Ausbau des Stromnetzes, erneuerbarer Quellen und ausreichend Speicher. Dies wurde in den vergangenen Jahren leider versäumt. Die Versorgungssicherheit hängt daher davon ab, dass Netz- und Speicherausbau massiv angezogen werden ohne dabei den Ausbau der erneuerbaren Energien selbst zu bremsen.
 
 {{< collapse "Im Detail" >}}
@@ -76,7 +76,7 @@ Die Energiewende hin zu erneuerbaren Energieträgern erfordert und ermöglicht g
 
 Diese Aufgabenstellung wurde allerdings in zahlreichen Jahrzehnten aufgrund verfügbarer, grund-lastfähiger Energiequellen verschleppt. Beim aktuellen unzureichenden Netzausbau verschärft die Abschaltung konventioneller Kraftwerke zugunsten des Ausbaus erneuerbarer Energien die Prob-lemstellung, was aber kein Grund sein sollte diesen zu drosseln, sondern stattdessen den Netzaus-bau massiv zu beschleunigen. [[7]](#src-7)
 
-{{< /collapse >}}
+
 
 {{< /collapse >}}
 
