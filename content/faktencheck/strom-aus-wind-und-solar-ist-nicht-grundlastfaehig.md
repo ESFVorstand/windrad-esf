@@ -5,7 +5,7 @@ date: 2022-02-20T07:00:00+02:00
 author: "Torsten Schädel"
 tags: ["Versorgungssicherheit", "Grundlast", "Strombedarf", "Windenergie", "Solarenergie", "Dunkelflaute"]
 categories: ["Faktencheck"]
-draft: true
+draft: false
 ---
 
 >Strom aus Wind- und Solarquellen kann die bestehende Grund&shy;last – und damit den zu jeder Zeit be&shy;stehen&shy;den Strombedarf – nicht decken. Die Ver&shy;sor&shy;gungs&shy;sicher&shy;heit ist bei gänzlicher Umstellung auf er&shy;neu&shy;er&shy;bare En&shy;er&shy;gien nicht mehr gegeben.
@@ -49,15 +49,15 @@ Entscheidend hierbei ist, dass beide En&shy;er&shy;gie&shy;for&shy;men mög&shy;
 {{< collapse "Im Detail" >}}
 Der Deutsche Wetterdienst zeigt in einer Pres&shy;se&shy;mit&shy;tei&shy;lung von März 2018 [[9]](#src-9) auf, dass die entsprechenden Aus&shy;fall&shy;er&shy;eig&shy;nis&shy;se sich schon bei deutsch&shy;land&shy;wei&shy;tem Aus&shy;bau von Wind&shy;kraft- und So&shy;lar&shy;an&shy;la&shy;gen etwa um den Faktor 11 ge&shy;gen&shy;über reiner Inland-Wind&shy;kraft&shy;nut&shy;zung von durch&shy;schnitt&shy;lich 23 x 48h Flauten pro Jahr auf 2 x 48h Dun&shy;kel&shy;flau&shy;ten pro Jahr reduzieren lassen. Bei Europaweiter Betrachtung re&shy;du&shy;ziert sich dieses Ri&shy;si&shy;ko abermals um den Faktor 10 auf 0,2 x 48h Dun&shy;kel&shy;flau&shy;te pro Jahr.
 
-{{< image src="images/ertragsausfaelle.png" caption="Darstellung des Sachverhalts aus der Pressemitteilung des DW [[9]](#src-9)" alt="Darstellung des Sachverhalts aus der Pressemitteilung des DW" >}}
+<!-- {{< image src="images/ertragsausfaelle.png" caption="Darstellung des Sachverhalts aus der Pressemitteilung des DW [[9]](#src-9)" alt="Darstellung des Sachverhalts aus der Pressemitteilung des DW" >}} -->
 
 Eine Studie über die Aus&shy;gleichs&shy;wir&shy;kun&shy;gen von Juni 2019 [[10]](#src-10) löst diesen Sachverhalt nochmal detail&shy;lierter auf. Sie zeigt für einen Zeitraum von 25 Jahren (wobei nur für 21 Jahre ausreichend Daten vorliegen) weni&shy;ger als 5 Ereignisse von mindestens 48 Stunden Dauer für Deutsch&shy;land bzw. weni&shy;ger als 1 solches Ereignis für Europa. Dabei wurde ein Kapazitätsfaktor von 10% angenommen, d.h. es wurden Aus&shy;fall&shy;er&shy;eig&shy;nis&shy;se be&shy;trach&shy;tet, bei denen die Leistung der be&shy;tref&shy;fen&shy;den Wind&shy;kraft- und So&shy;lar&shy;an&shy;la&shy;gen nur noch maximal 10% ihrer Nenn&shy;leis&shy;tung betragen hätten.
 
-{{< image src="images/ereignisse.png" caption="Durchschnittliche jährliche Anzahl von Ereignissen innerhalb eines Zeitraums von 21 Jahren Daten, wenn der Kapazitätsfaktor für einen bestimmten Zeitraum unter einem Schwellenwert von 10% blieb. Die Häufigkeit bezieht sich auf den Zeitraum 1995 bis 2015. Analysiert werden mehrere Set-tings: Wind, Photovoltaik (PV) und eine Kombination aus beidem für folgende Regionen: Deutsche Landflächen (BRD-Land, Deutsche Ausschließliche Wirtschaftszone (BDE-AWZ), und die europäi-sche Landfläche (wie im Text definiert) Die Balken für alle Ereignisdauern beziehen sich auf den Nullpunkt der y-Achse. [[10]](#src-10)" >}}
+<!-- {{< image src="images/ereignisse.png" caption="Durchschnittliche jährliche Anzahl von Ereignissen innerhalb eines Zeitraums von 21 Jahren Daten, wenn der Kapazitätsfaktor für einen bestimmten Zeitraum unter einem Schwellenwert von 10% blieb. Die Häufigkeit bezieht sich auf den Zeitraum 1995 bis 2015. Analysiert werden mehrere Set&shy;tings: Wind, Photovoltaik (PV) und eine Kombination aus beidem für folgende Regionen: Deutsche Landflächen (BRD-Land, Deutsche Ausschließliche Wirtschaftszone (BDE-AWZ), und die euro&shy;päi&shy;sche Landfläche (wie im Text definiert) Die Balken für alle Ereignisdauern beziehen sich auf den Nullpunkt der y-Achse. [[10]](#src-10)" >}} -->
 
 Ausgehend von einem Kapazitätsfaktor von 15% (d.h. die Kraft&shy;wer&shy;ke erbrächten max. 15% ihrer Nenn&shy;leis&shy;tung) verdoppelt sich die Anzahl der Ereignisse auf etwa 10 x 48h in 21 Jahren für Deutsch&shy;land bzw. 1-2 entsprechende Aus&shy;fall&shy;er&shy;eig&shy;nis&shy;se für Europa im gleichen Zeitraum.
 
-{{< image src="images/ereignisse15.png" caption="Durchschnittliche jährliche Anzahl von Ereignissen innerhalb eines Datenzeitraums von 21 Jahren, wenn der Kapazitätsfaktor unter einem Schwellenwert von 15% blieb (ansonsten wie vorige Abbildung). [[10]](#src-10)" >}}
+<!-- {{< image src="images/ereignisse15.png" caption="Durchschnittliche jährliche Anzahl von Ereignissen innerhalb eines Datenzeitraums von 21 Jahren, wenn der Kapazitätsfaktor unter einem Schwellenwert von 15% blieb (ansonsten wie vorige Abbildung). [[10]](#src-10)" >}} -->
 
 {{< /collapse >}}
 
