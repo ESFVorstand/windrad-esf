@@ -1,7 +1,7 @@
 ---
 title: "Elemente"
 description: ""
-draft: false
+draft: true
 ---
 
 
