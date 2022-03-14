@@ -82,7 +82,9 @@ favicon = "images/favicon.png"
 description = "Informationen rund um die Windenergie in Freigericht"
 author = "ESF"
 # contact form action
-contact_form_action = "https://submit-form.com/ColTZIKE" # contact form works with https://formspree.io
+#contact_form_action = "https://submit-form.com/ColTZIKE" # contact form works with https://formspree.io
+contact_form_action = "http://magic.web-republic.de/script/aakkjjsendmail.php" # contact form works with https://formspree.io
+
 
 # Contact Form
 
