@@ -7,7 +7,7 @@ draft: false
 <p>Arbeitsgruppe Windenergie-Freigericht<br />
 eine Initiative des</p>
 
-<p>Energie-Stammtisch Freigericht e.V.<br />
+<p><a href="https://www.energie-stammtisch-freigericht.de" target="_blank">En&shy;er&shy;gie-Stamm&shy;tisch Frei&shy;ge&shy;richt e.V.</a><br />
 Am Südhang 6<br />
 63579 Freigericht</p>
 

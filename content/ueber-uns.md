@@ -44,7 +44,7 @@ what_i_do:
 
 ---
 
-Angeregt durch die Entscheidung im Freigerichter Gemeinde-Parlament, die Auf&shy;stellung von Wind&shy;energie&shy;anlagen in der Vor&shy;rang&shy;fläche im Frei&shy;gerichter Wald voran&shy;zu&shy;bringen, hat sich der Energie-Stammtisch Frei&shy;gericht e.V. dazu ent&shy;schlossen, eine ESF Arbeitsgruppe Wind&shy;energie ins Leben zu rufen.
+Angeregt durch die Entscheidung im Freigerichter Gemeinde-Parlament, die Auf&shy;stellung von Wind&shy;energie&shy;anlagen in der Vor&shy;rang&shy;fläche im Frei&shy;gerichter Wald voran&shy;zu&shy;bringen, hat sich der <a href="https://www.energie-stammtisch-freigericht.de" target="_blank">En&shy;er&shy;gie-Stamm&shy;tisch Frei&shy;ge&shy;richt e.V.</a> dazu ent&shy;schlossen, eine ESF Arbeitsgruppe Wind&shy;energie ins Leben zu rufen.
 
 Der Arbeitsgruppe ist es wichtig, sich als Wind&shy;energie-Befürworter in die Dis&shy;kus&shy;si&shy;onen ein&shy;zu&shy;mischen und sachlich viele In&shy;for&shy;ma&shy;ti&shy;onen zum Thema Windenergie auf&shy;zu&shy;arbeiten und einem Faktencheck zu unter&shy;ziehen. Sehr schnell haben sich Teilnehmer aus den Reihen der ESF Mit&shy;glieder gefunden und ganz besonders freuen wir uns, dass durch die Gründung der Arbeitsgruppe einige Neumitglieder den Weg zum ESF gefunden haben.
 
