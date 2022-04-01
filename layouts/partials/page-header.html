@@ -6,12 +6,12 @@
         {{ if and (not (in  "leserbriefe,faktencheck" .Section)) (not (in "Leserbriefe,Faktencheck" .Title)) }}
           {{ if or (eq .Section "tags") (eq .Section "categories") }}
             {{ if or (eq .Permalink (`tags/` | absURL)) (eq .Permalink (`categories/` | absURL)) }}
-              <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>
+              <h3 class="mb-3 text-dark font-weight-bold">{{ .Title | markdownify}}</h3>
             {{else}}
               <h4 class="mb-3 text-dark font-weight-bold">Beiträge mit der Markierung <mark>{{.Title | markdownify}}</mark></h4>
             {{ end }}
           {{ else }}
-            <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>
+            <h3 class="mb-3 text-dark font-weight-bold">{{ .Title | markdownify}}</h3>
           {{ end }}
 
           <ul class="list-inline breadcrumb-menu">
@@ -21,7 +21,7 @@
 
           {{ $url := replace .Permalink ( printf "%s" site.BaseURL) "" }}
           {{ $.Scratch.Add "path" site.BaseURL }}
-          {{ $title := .Title }}
+          {{ $title := index (split .Title "|") 0 }}
           {{ $urlArray := (split (trim $url "/") "/") }}
 
           <li class="list-inline-item"><a href="{{site.BaseURL | relLangURL}}">Start</a></li>

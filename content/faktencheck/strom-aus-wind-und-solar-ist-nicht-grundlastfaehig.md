@@ -1,5 +1,5 @@
 ---
-title: "Strom aus Wind und Solar ist nicht grundlastfähig!"
+title: "Strom aus Wind und Solar ist nicht grundlastfähig"
 image: ""
 date: 2022-02-20T07:00:00+02:00
 author: "Torsten Schädel"

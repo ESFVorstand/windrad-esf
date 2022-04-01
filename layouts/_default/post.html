@@ -1,7 +1,9 @@
+{{ $title := index (split .Title "|") 0 }}
+
 <article class="card post-card">
   {{if .Params.image}}
   <a href="{{.Permalink}}">
-    {{ partial "image.html" (dict "Src" .Params.image "Class" "w-100 h-auto rounded" "Alt" .Title) }}
+    {{ partial "image.html" (dict "Src" .Params.image "Class" "w-100 h-auto rounded" "Alt" $title) }}
   </a>
   {{end}}
   <div class="card-body">
@@ -10,11 +12,11 @@
         {{ with site.GetPage (.Params.Author | urlize | lower) }}
         <a href="{{.Permalink}}" class="card-meta-author">
           {{if .Params.image}}
-          {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
+          {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" $title) }}
           {{else}}
           <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
           {{end}}
-          <span>{{ .Title }}</span>
+          <span>{{ $title }}</span>
         </a>
         {{ else }}
         {{ .Params.author }}
@@ -33,15 +35,15 @@
     </ul>
     <h3 class="mb-3">
       {{ if (in .Params.categories "Leserbriefe") }}
-        <a class="post-title" href="{{.Permalink}}">Leserbrief: {{.Title}}</a>
+        <a class="post-title" href="{{.Permalink}}">Leserbrief: {{ $title }}</a>
       {{ else if (in .Params.categories "Faktencheck") }}
-        <a class="post-title" href="{{.Permalink}}">Faktencheck: {{.Title}}</a>
+        <a class="post-title" href="{{.Permalink}}">Faktencheck: {{ $title }}</a>
       {{ else }}
-        <a class="post-title" href="{{.Permalink}}">{{.Title}}</a>
+        <a class="post-title" href="{{.Permalink}}">{{ $title }}</a>
       {{ end }}
     </h3>
     <p>{{ .Plain | truncate 150 }}</p>
 
-    <a href="{{.Permalink}}" aria-label="Mehr zu {{.Title}}">Weiterlesen <i class="las la-angle-right"></i></a>
+    <a href="{{.Permalink}}" aria-label="Mehr zu {{ $title }}">Weiterlesen <i class="las la-angle-right"></i></a>
   </div>
 </article>

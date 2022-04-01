@@ -2,7 +2,8 @@
 
 <!-- checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") (eq .Section "leserbriefe") (eq .Section "faktencheck") }}
-{{ $section := .Section}}
+{{ $section := .Section }}
+{{ $title := (replace .Title "|" "") }}
 
 <section class="section-sm">
   <div class="container">
@@ -10,17 +11,17 @@
       <div class="col-lg-12">
         <div class="text-center mb-5">
           {{ if (eq $section "faktencheck") }}
-            <h3 class="h2 mb-4 post-title">Faktencheck: {{.Title}}</h3>
+            <h3 class="h2 mb-4 post-title">Faktencheck: {{ $title }}</h3>
           {{ else }}
-            <h3 class="h2 mb-4 post-title">{{.Title}}</h3>
+            <h3 class="h2 mb-4 post-title">{{ $title }}</h3>
           {{ end }}
           <ul class="card-meta list-inline">
             <li class="list-inline-item">
               <span class="card-meta-author">
                 {{ with .Site.GetPage (.Params.author | urlize | lower) }}
                 <a href="{{.Permalink}}" class="card-meta-author">
-                  {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
-                  <span>{{.Title}}</span>
+                  {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" $title) }}
+                  <span>{{ $title }}</span>
                 </a>
                 {{ else }}
                 {{ .Params.author }}
@@ -92,11 +93,11 @@
           <div class="media d-block d-sm-flex text-center text-sm-left">
             {{ with .Site.GetPage (.Params.Author | urlize | lower) }}
             <a href="{{.Permalink}}">
-              {{ partial "image.html" (dict "Src" .Params.image "Size" "150x150" "Class" "img-fluid rounded-circle mr-0 mr-sm-4 mb-4" "Alt" .Title) }}
+              {{ partial "image.html" (dict "Src" .Params.image "Size" "150x150" "Class" "img-fluid rounded-circle mr-0 mr-sm-4 mb-4" "Alt" $title) }}
             </a>
             <div class="media-body">
               <p class="font-primary mb-1">Geschrieben von</p>
-              <h4><a href="{{.Permalink}}" class="text-dark font-weight-700">{{.Title}}</a></h4>
+              <h4><a href="{{.Permalink}}" class="text-dark font-weight-700">{{ $title }}</a></h4>
               <p class="font-primary">{{ .Summary | truncate 250 }}</p>
               <ul class="social-links list-unstyled list-inline ml-0 ml-sm-n2">
                 {{ range .Params.social }}
@@ -119,7 +120,7 @@
             <div class="col-12">
               <h3 class="text-dark font-weight-800 mb-4 pb-2">Das könnte Sie auch interessieren</h3>
             </div>
-            {{ $related := (where site.RegularPages "Section" "blog") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
+            {{ $related := (where site.RegularPages "Section" "blog") | intersect (where site.Pages "$title" "!=" $title) | union (site.RegularPages.Related . ) }}
               {{ range first 2 $related }}
             <div class="col-md-6">
               {{ .Render "post" }}
