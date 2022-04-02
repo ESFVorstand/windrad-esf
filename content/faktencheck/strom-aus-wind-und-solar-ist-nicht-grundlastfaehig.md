@@ -6,6 +6,7 @@ author: "Torsten Schädel"
 tags: ["Versorgungssicherheit", "Grundlast", "Strombedarf", "Windenergie", "Solarenergie", "Dunkelflaute"]
 categories: ["Faktencheck"]
 draft: false
+# TODO: Bilderrechte checken
 ---
 
 >Strom aus Wind- und Solarquellen kann die bestehende Grund&shy;last – und damit den zu jeder Zeit be&shy;stehen&shy;den Strombedarf – nicht decken. Die Ver&shy;sor&shy;gungs&shy;sicher&shy;heit ist bei gänzlicher Umstellung auf er&shy;neu&shy;er&shy;bare En&shy;er&shy;gien nicht mehr gegeben.
