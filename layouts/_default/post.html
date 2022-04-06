@@ -11,15 +11,18 @@
       <li class="list-inline-item mb-2">
         {{ with site.GetPage (.Params.Author | urlize | lower) }}
         <a href="{{.Permalink}}" class="card-meta-author">
-          {{if .Params.image}}
-          {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
-          {{else}}
-          <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
-          {{end}}
+          {{ if .Params.image }}
+            {{ partial "image.html" (dict "Src" .Params.image "Size" "26x26" "Class" "w-auto" "Alt" .Title) }}
+          {{ else if .Params.email }}
+            <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
+          {{ else }}
+            <i class="las la-user-alt text-primary mr-1"></i>
+          {{ end }}
           <span>{{ .Title }}</span>
         </a>
         {{ else }}
-        {{ .Params.author }}
+          <i class="las la-user-alt text-primary mr-1"></i>
+          <span>{{ .Params.author }}</span>
         {{ end }}
       </li>
       <li class="list-inline-item mb-2">
