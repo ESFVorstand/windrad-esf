@@ -1,5 +1,5 @@
 ---
-title: "Deutlich irritiert und verwundert ueber die Leserbriefe der Windkraftgegner in den letzten Wochen"
+title: "Deutlich irritiert und verwundert über die Leserbriefe der Windkraftgegner| in den letzten Wochen"
 image: ""
 date: 2022-04-05T12:00:00+05:00
 author: "Josef Keller"
@@ -8,6 +8,7 @@ categories: ["Leserbriefe"]
 draft: false
 topic: "Windenergie"
 residence: "Freigericht"
+# TODO: korrekturlesen sebix
 ---
 
 Ich bin ein Befürworter der Windkraftanlagen im Freigerichter Wald. Ich möchte unsere Heimat bewahren und unseren Kindern und Enkeln die Lebensgrundlage erhalten. Wir alle haben eine Verantwortung, dauerhaft unsere Umwelt, den Wald und die Natur, alle Lebewesen und unsere Gesundheit zu schützen. Unseren Wald zu schützen heißt, so schnell wie möglich den Wandel weg von den fossilen Brennstoffen und hin zu den erneuerbaren Energien zu vollziehen. So wie bisher weiterzumachen, heißt, den jetzt schon durch den Klimawandel schwer geschädigten Wald zu Grabe zu tragen.
@@ -21,4 +22,3 @@ Es ist richtig, es müssen Energiespeicher installiert werden, um die zukünftig
 Ein weiterer Aspekt ist die Anschaffung von steuerbaren Wärmepumpen für die Heizung und die Warmwasseraufbereitung. Bei Stromüberschuss aber auch bei Strommangel, könnten diese Wärmepumpen temporär zu oder abgeschaltet und die Energie in einem Wasserboiler gespeichert werden. Es wird auch behauptet, dass Windenergieanlagen sehr oft abgeschaltet werden, da es bei gutem Wind eine Überkapazität gäbe. Dies ist derzeit noch richtig... Nur die Analyse dazu ist falsch... Windkraftanlagen können von einer auf die andere Minute abgeschaltet werden. Die Stromversorgung in Deutschland wird derzeit bereits durch ca. 45 % erneuerbarem Strom gedeckt. Das bedeutet, dass nach wie vor Atom- und Kohle- und Gaskraftwerke in Betrieb sind, um eine volle Versorgung Deutschlands zu gewährleisten. Diese fossilen und atomaren Kraftwerke können eben nicht so einfach abgeschaltet werden und führen daher bei gutem Ertrag von erneuerbarem Strom zur Abschaltung der Windkraftanlagen. Genau das ist der Grund, weshalb wir jede Möglichkeit nutzen müssen, um die Windenergie auszubauen um danach im Umkehrschluss auf die Kohle – und Atomkraftwerke verzichten zu können.
 
 Liebe Gegenwind-Sympathisanten, alle Dinge müssen Zug um Zug angegangen werden. Die Speicher können teilweise sofort installiert werden, E-Fahrzeuge können Sie bestellen und Bürger können überzeugt werden, auch weiterhin Solaranlagen auf die Dächer zu installieren. Aber auch die Windenergieanlagen im Freigerichter Wald sind notwendig und bis die Installation solcher Anlagen realisiert werden können, vergehen noch mindestens vier Jahre. In dieser Zwischenzeit haben wir alle die Möglichkeiten uns mit Elektro-Speicher und elektrischen Wärmepumpen im Haus oder auch im E-Fahrzeug auszustatten. Wir müssen es nur wollen …"
-
