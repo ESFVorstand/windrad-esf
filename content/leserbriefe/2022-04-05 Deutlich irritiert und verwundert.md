@@ -1,5 +1,5 @@
 ---
-title: "Windenergie genießt breite Zustimmung in der Bevölkerung"
+title: "Deutlich irritiert und verwundert ueber die Leserbriefe der Windkraftgegner in den letzten Wochen"
 image: ""
 date: 2022-04-05T12:00:00+05:00
 author: "Josef Keller"
