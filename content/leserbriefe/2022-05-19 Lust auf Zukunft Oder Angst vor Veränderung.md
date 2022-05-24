@@ -3,7 +3,7 @@ title: "Lust auf Zukunft? Oder Angst vor Veränderung?"
 image: ""
 date: 2022-05-19T12:00:00+05:00
 author: "Andreas Korzec"
-tags: ["Windenergie", "Windkraftgegner", "Windräder", "Freigericht", "Gegenwind"]
+tags: ["Windenergie", "Windkraftgegner", "Windräder", "Freigericht", "Gegenwind Freigericht"]
 categories: ["Leserbriefe"]
 draft: false
 topic: "Windkraftgegner"

@@ -3,7 +3,7 @@ title: "Deutlich irritiert und verwundert über die Leser\u00ADbriefe der Wind\u
 image: ""
 date: 2022-04-05T12:00:00+05:00
 author: "Josef Keller"
-tags: ["Windenergie", "Windkraftgegner", "Windräder", "Freigericht", "Gegenwind"]
+tags: ["Windenergie", "Windkraftgegner", "Windräder", "Freigericht", "Gegenwind Freigericht"]
 categories: ["Leserbriefe"]
 draft: false
 topic: "Windkraftgegner"
