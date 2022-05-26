@@ -10,4 +10,4 @@ topic: "Klarstellung"
 residence: "Freigericht"
 ---
 
-Wir möchten klarstellen, dass wir zuletzt am 08.04.2022 Termine für ein Gespräch zu einem geplanten Stand während der 2. Energietage Freigericht angeboten haben. Am 10.04.2022 erfolgte direkt eine Absage von einem Mitglied der IG Gegenwind Freigericht. Kurz darauf folgte von uns wieder eine Angebot für ein Gespräch nach den Ostertagen. Es erfolgten keine weiteren Anfragen von der IG Gegenwind Freigericht.
+Wir möchten klarstellen, dass wir zuletzt am 08.04.2022 Termine für ein Gespräch zu einem geplanten Stand während der 2. Energietage Freigericht angeboten haben. Am 10.04.2022 erfolgte direkt eine Absage von einem Mitglied der IG Gegenwind Freigericht. Kurz darauf folgte von uns wieder ein Angebot für ein Gespräch nach den Ostertagen. Es erfolgten keine weiteren Anfragen von der IG Gegenwind Freigericht.
