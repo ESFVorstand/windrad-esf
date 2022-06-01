@@ -2,7 +2,7 @@
 title: "Klarstellung zum Leserbrief von Herrn Mathias Feick vom 25.05.2022"
 image: ""
 date: 2022-05-25T10:59:00+05:00
-author: "Energie Stammtisch Freigeicht"
+author: "Energie Stammtisch Freigericht"
 tags: ["Windenergie", "Windkraftgegner", "Windräder", "Freigericht", "Klarstellung", "Gegenwind Freigericht"]
 categories: ["Leserbriefe"]
 draft: false
