@@ -1,5 +1,5 @@
 ---
-title: "Appell zur Teilnahme an der Abstimmung beim Bürgerentscheid in Freigericht zur Machbarkeitsüberprüfung „Windenergie“"
+title: "Appell zur Teil\u00ADnahme an der Ab\u00ADstimmung beim Bür\u00ADger\u00ADent\u00ADscheid in Frei\u00ADge\u00ADricht zur Mach\u00ADbar\u00ADkeits\u00ADüber\u00ADprü\u00ADfung „Wind\u00ADener\u00ADgie“"
 image: "images/blog/windmill-3366618_1200.jpg"
 date: 2022-06-01T12:00:00+05:00
 author: "Energie Stammtisch Freigericht"
