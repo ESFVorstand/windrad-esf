@@ -45,4 +45,4 @@ E-Mail: jk@energie-stammtisch-freigericht.de</p>
 <h3>Google Web Fonts (lokales Hosting)</h3> <p>Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Web Fonts, die von Google bereitgestellt werden. Die Google Fonts sind lokal installiert. Eine Verbindung zu Servern von Google findet dabei nicht statt.</p> <p>Weitere Informationen zu Google Web Fonts finden Sie unter <a href="https://developers.google.com/fonts/faq" target="_blank" rel="noopener noreferrer">https://developers.google.com/fonts/faq</a> und in der Datenschutzerklärung von Google: <a href="https://policies.google.com/privacy?hl=de" target="_blank" rel="noopener noreferrer">https://policies.google.com/privacy?hl=de</a>.</p>
 
 
-
+![eRecht24 Datenschutzerklärung Siegel](../erecht24-siegel-datenschutzerklaerung-blau.png)

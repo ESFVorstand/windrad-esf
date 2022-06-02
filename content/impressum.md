@@ -59,3 +59,5 @@ Am Südhang 6<br />
 - Arbeitsgemeinschaft Nahmobilität Hessen der Hessischen Landesregierung
 - H2BZ Initiative Hessen e.V., Wasserstoff- und Brennstoffzellen Initiative Hessen e.V.  
 Die Initiative wird unterstützt durch die HA Hessen Agentur GmbH des Landes Hessen.
+
+![eRecht24 Impressum Siegel](../erecht24-siegel-impressum-blau.png)
