@@ -3,6 +3,8 @@ title: "Impressum"
 description: ""
 draft: false
 ---
+
+<h1>Impressum</h1>
 <h2>Angaben gemäß § 5 TMG</h2>
 <p>Arbeitsgruppe Windenergie-Freigericht<br />
 eine Initiative des</p>
