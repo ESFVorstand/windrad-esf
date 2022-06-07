@@ -11,9 +11,9 @@ draft: false
 ### Akzeptanz
 Die große Mehrheit der Bevölkerung steht der Windenergie außerordentlich positiv gegenüber. Unabhängige Umfragen führender Meinungsforschungsinstitute belegen einen breiten Zuspruch für den Ausbau der Erneuerbaren Energien. 
 
-### Amper
+### Ampere
 
-Amper besitzt die Einheitenzeichen A und wurde benannt nach dem französischen Physiker André-Marie Ampère. Ampere ist die SI-Basiseinheit der elektrischen Stromstärke.
+Ampere besitzt die Einheitenzeichen A und wurde benannt nach dem französischen Physiker André-Marie Ampère. Ampere ist die SI-Basiseinheit der elektrischen Stromstärke.
 
 
 ### Arbeitsplätze
@@ -98,8 +98,8 @@ Als Grundlast bezeichnet man die niedrigste Tagesbelastung eines Stromnetzes. Gr
 
 ## H
 
-### Hinternissbefeuerung
-Die Errichtung von Windenergieanlagen mit einer Gesamthöhe von mehr als 150 Metern gewinnt in Deutschland zunehmend an Bedeutung
+### Hindernisbefeuerung
+Ab Ende 2022 müssen alle Windkraftanalgen in Deutschland mit einem System zur Bedarfsgerechten Hindernisbefeuerung ausgerüstet sein. Die Beleuchtung wird dann nur noch eingeschaltet, wenn ein Flugzeug auf den Windpark in einer geringen Höhe zu fliegt.
 
 ## I
 
@@ -113,9 +113,6 @@ Infraschall (Schall mit sehr niedrigen Frequenzen) ist ein weit verbreitetes Ph�
 
 Eine Kilowattstunde (kWh) ist eine gebräuchliche Einheit zur Messung von Energie. Energie ist die Fähigkeit, physikalische Arbeit zu verrichten. Um Wasser zu erwärmen, um den Glühfaden einer Lampe zum Glühen zu bringen oder um einen Motor zu drehen, braucht man Energie. Es gilt: Arbeit ist gleich Leistung mal Zeit kWh = kW * h Die Grundeinheit für Energie ist jedoch das Joule (J) 1 kWh = 3.600 kJ. Als Energiequellen stehen uns Wasser, Kohle, Erdöl, Gas, Atomkraft und alternative Energiequellen zur Verfügung.
 
-
-### Kleinwindanlagen
-Infraschall (Schall mit sehr niedrigen Frequenzen) ist ein weit verbreitetes Phänomen. Beispiele für tieffrequente Geräusche finden sich in beinahe jeder Alltagssituation und können Beeinträchtigungen im Wohlbefinden auslösen. So fürchten auch Menschen, die in der Nähe eines Windparks leben, von unangenehmen Schallemissionen betroffen zu sein. 
 
 ### Klimafolgen, Klimawandel und Klimaschutz
 Die hohen Emissionen von Treib- hausgasen durch den Menschen stellen einen entscheidenden Faktor für die heutigen Veränderungen des Weltklimas dar. Wissenschaftler sind sich einig darüber, dass der hohe Energieverbrauch, bedingt durch den modernen Lebensstil des Menschen, den natürlichen Treibhauseffekt in einem Maße verstärkt, dass überall auf dem Globus Niederschlags- und Temperaturannomalien auftreten. Besonders betroffen sind Regionen, die aufgrund ihrer natürlichen Gegebenheiten in der Vergangenheit bereits des Öfteren unter Naturkatastrophen zu leiden hatten. 
@@ -186,7 +183,7 @@ Die gewöhnliche Betriebsdauer von Windenergieanlagen ist ausgelegt auf 20 Jahre
 Bei einer Windenergieanlage gibt es zwei Schallquellen: zum einen die mechanischen Bauteile wie Getriebe und Generator, zum anderen entsteht durch die Bewegung des Rotors aerodynamischer Schall. 
 
 ### Schattenwurf
-Abhängig von Wetterbedingungen, Windrichtung, Sonnenstand und Betrieb kann eine Windenergieanlage mit ihren rotierenden Flügeln einen bewegten Schlagschatten werfen. 
+Abhängig von Wetterbedingungen, Windrichtung, Sonnenstand und Betrieb kann eine Windenergieanlage mit ihren rotierenden Flügeln einen bewegten Schlagschatten werfen. Der Schattenwurf auf Gebäude wird durch gesetzliche Regelungen zeitlich streng reglementiert.
 
 ### Sicherheit
 Windenergieanlagen sind heute im Durchschnitt zu 98,5 Prozent technisch verfügbar, sie stehen also wegen technischer Mängel nur etwa sieben Tage im Jahr still. Die Stillstands Zeiten bei Großkraftwerken betragen hingegen mehrere Wochen pro Jahr. 
@@ -195,7 +192,7 @@ Windenergieanlagen sind heute im Durchschnitt zu 98,5 Prozent technisch verfügb
 Der Anteil der Erneuerbaren Energien am Strom mix wächst. 2014 betrug er bereits über ein Viertel – und die Ziele der Bundesregierung verdeutlichen, dass dieser Anteil weiter steigen wird. Ein wichtiger Bestandteil für eine sichere Zukünftige Energieversorgung durch Erneuerbare Energien ist die Speichertechnologie. 
 
 ### Strompreis
-In den letzten Jahren ist der steigende Strompreis intensiv diskutiert worden. Gleichzeitig sollen Erneuerbare Energien besser in den Strommarkt integriert werden. Dabei ist das aktuelle Strommarktdesign für den steigenden Anteil der Erneuerbaren ungeeignet. 
+In den letzten Jahren ist der steigende Strompreis intensiv diskutiert worden. Gleichzeitig sollen Erneuerbare Energien besser in den Strommarkt integriert werden. Solar- und Windenergie bieten von allen Erzeugungsformen die niedrigsten Kosten. Sie erzeugen Strom günstiger als Kohle-, Öl-, Gas- und vor allem Kernkraftwerke.
 
 ## T
 
@@ -206,7 +203,7 @@ Ende 2019 drehten sich die Rotoren von rund 30.000 Anlagen im Wind und speisten 
 
 
 ### Umweltverbände
-Die großen Naturschutz- und Umweltverbände haben stets den ökologischen Sinn und Nutzen der Windenergie betont. Gemeinsam bilden sie eine Stimme für den Ausbau der Erneuer- baren und nehmen zusammen mit den Verbänden und Industrien der Branche Einfluss auf Entscheidungsträger. 
+Die großen Naturschutz- und Umweltverbände haben stets den ökologischen Sinn und Nutzen der Windenergie betont. Gemeinsam bilden sie eine Stimme für den Ausbau der Erneuerbaren und nehmen zusammen mit den Verbänden und Industrien der Branche Einfluss auf Entscheidungsträger. 
 
 ## V
 
@@ -223,16 +220,16 @@ Die meisten Industrienationen haben sich im Rahmen internationaler Vereinbarunge
 
 ### Watt
 
-Watt ist die Einheit, in der Leistung gemessen wird. Benannt wurde sie nach dem Glasgower Mechaniker James Watt (1736-1819), der die Dampfmaschine mit ausgelagertem Kondensator erfunden hat. Heute wird in Watt bzw. in Kilowatt die größtmögliche Leistung von Elektrogeräten angegeben. 1.000 Watt entsprechen dabei 1 Kilowatt. Unser Stromverbrauch wird in kwh gemessen.
+Watt ist die Einheit, in der Leistung gemessen wird. Benannt wurde sie nach dem Glasgower Mechaniker James Watt (1736-1819), der die Dampfmaschine mit ausgelagertem Kondensator erfunden hat. Heute wird in Watt bzw. in Kilowatt die größtmögliche Leistung von Elektrogeräten angegeben. 1.000 Watt entsprechen dabei 1 Kilowatt. Unser Stromverbrauch wird in kWh gemessen.
 
 
 
 ### Windenergieanlagen WEA
-Bis 2025 strebt die Bundesregierung einen Anteil der Erneuerbaren Energien an der Stromerzeugung von mindestens 40 Prozent an. Die Windenergie stellt hierbei einen Grundpfeiler der regenerativen Energieversorgung dar. Bei der Frage nach möglichen Standorten für die Erzeugungskapazitäten rückt zunehmend auch der Wald in den Fokus, der rund ein Drittel der Fläche Deutsch- lands bedeckt.
+Bis 2025 strebt die Bundesregierung einen Anteil der Erneuerbaren Energien an der Stromerzeugung von mindestens 40 Prozent an. Die Windenergie stellt hierbei einen Grundpfeiler der regenerativen Energieversorgung dar. Bei der Frage nach möglichen Standorten für die Erzeugungskapazitäten rückt zunehmend auch der Wald in den Fokus, der rund ein Drittel der Fläche Deutschlands bedeckt.
 
 ### Windklassen IEC
 
-Eine Windklasse wird in der IEC 61400-1 definiert. Mit den IEC-Windklassen kann je nach den Wind¬verhältnissen die geeignete Wind¬kraftanlage ausgewählt werden. Jede Windkraft¬anlage wird nach einer Wind¬klasse zertifiziert und muss somit bei den Auslegungs¬werten standhalten. 
+Eine Windklasse wird in der IEC 61400-1 definiert. Mit den IEC-Windklassen kann je nach den Windverhältnissen die geeignete Windkraftanlage ausgewählt werden. Jede Windkraftanlage wird nach einer Windklasse zertifiziert und muss somit bei den Auslegungswerten standhalten. 
 
 
 ### Windkraftanlagen WKA
