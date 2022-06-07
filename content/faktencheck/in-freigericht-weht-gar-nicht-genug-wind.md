@@ -1,21 +1,31 @@
 ---
-title: "In Freigericht weht gar nicht genug Wind| – Potenzielle Betreiber sind nur auf die Fördergelder für die Anlagen aus"
+title: "In Freigericht weht gar nicht genug Wind| – Po\u00ADten\u00ADziel\u00ADle Be\u00ADtrei\u00ADber sind nur auf die För\u00ADder\u00ADgel\u00ADder für die An\u00ADla\u00ADgen aus"
 image: ""
-date: 2022-03-22T07:00:00+02:00
+date: 2022-06-07T07:00:00+02:00
 author: "Torsten Schädel"
-tags: ["Standort", "Wirtschaftlichkeit", "Windenergie", "Windstärke", "Stomertrag", "Gestehungskosten"]
+tags:
+  [
+    "Standort",
+    "Wirtschaftlichkeit",
+    "Windenergie",
+    "Windstärke",
+    "Stomertrag",
+    "Gestehungskosten",
+  ]
 categories: ["Faktencheck"]
-draft: true
+draft: false
 # TODO: korrekturlesen sebix
-# TODO: Quellen
+# TODO: shy-Tags
 # TODO: Bilderrechte checken
 ---
 
->Die für die in Freigericht ausgewiesene Windvorrangfläche zu erwartenden Windgeschwindigkeiten sind zu gering, um einen ausreichenden Stromertrag für einen ökonomisch sinnvollen Betrieb der Anlagen zu rechtfertigen und daher den ökologischen Natureingrifft zu rechtfertigen. Das zu erwartende Defizit wird von möglichen Windparkbetreibern über Fördergelder ausgeglichen und die eigentlich schadhafte Investition dadurch schöngerechnet.
+<span style="display: none">Behauptung:</span>
+
+> Die für die in Freigericht ausgewiesene Windvorrangfläche zu erwartenden Windgeschwindigkeiten sind zu gering, um einen ausreichenden Stromertrag für einen ökonomisch sinnvollen Betrieb der Anlagen zu rechtfertigen und daher den ökologischen Natureingriff zu rechtfertigen. Das zu erwartende Defizit wird von möglichen Windparkbetreibern über Fördergelder ausgeglichen und die eigentlich schadhafte Investition dadurch schöngerechnet.
 
 **Die Behauptung hält einer Prüfung der Gestehungskosten nicht stand. Diese setzen sämtliche Kosten einer Energietechnologie (Investition, Zinsen, Betrieb) ins Verhältnis zu dem von ihr erzeugten Stromertrag. Vergleicht man die Gestehungskosten, stellt Onshore-Windenergie aktuell – nach Solarenergie (ohne Speicher) – die zweitgünstigste Erzeugungstechnologie dar.**
 
-**Für die in Freigericht zu erwartende Windgeschwindigkeit ergeben sich Gestehungskosten von voraussichtlich 4,94 – 7,65 €ct/kWh). Diese liegen im Mittleren Bereich für Onshore-Anlagen. Ihre Wirtschaftlichkeit ist damit nicht nur besser als die für konventionelle Kraftwerke, Biomasse und Biogas, sondern auch als jene für Offshore-Windparks. Letztere liefern zwar bessere Winderträge, diesen stehen aber (aufgrund der Hochsee-Standorte) auch wesentlich höhere Installations- und Betriebskosten gegenüber. <!-- [1, Abbildung 1] -->**
+**Für die in Freigericht zu erwartende Windgeschwindigkeit ergeben sich Gestehungskosten von voraussichtlich 4,94 – 7,65 €ct/kWh). Diese liegen im Mittleren Bereich für Onshore-Anlagen. Ihre Wirtschaftlichkeit ist damit nicht nur besser als die für konventionelle Kraftwerke, Biomasse und Biogas, sondern auch als jene für Offshore-Windparks. Letztere liefern zwar bessere Winderträge, diesen stehen aber (aufgrund der Hochsee-Standorte) auch wesentlich höhere Installations- und Betriebskosten gegenüber.** [[1]](#src-1) (Abbildung 1)
 
 <!-- {{< image src="images/fraunhofer-stromgestehungskosten.png" alt="Stromgestehungskosten für erneuerbare Energien und konventionelle Kraftwerke an Standorten in Deutschland im Jahr 2021. Spezifische Anlagekosten sin mit einem minimalen und einem maximalen Wert je Technologie berücksichtigt. Das Verhältnis bei PV-Batteriesystemen drückt PV-Leistung in kWp gegenüber Batterie-Nutzkapazität in kWh aus." >}} -->
 
@@ -23,22 +33,22 @@ draft: true
 
 ---
 
-Die Kosten verschiedener Energieformen lassen sich der jüngsten Studie des Fraunhofer-Instituts zu diesem Thema entnehmen. Ebenso zeigt diese die Abhängigkeit der Wirtschaftlichkeit von Windkraftanlagen von der Windgeschwindigkeit ihres Standortes auf. [1]
+Die Kosten verschiedener Energieformen lassen sich der jüngsten Studie des Fraunhofer-Instituts zu diesem Thema entnehmen. Ebenso zeigt diese die Abhängigkeit der Wirtschaftlichkeit von Windkraftanlagen von der Windgeschwindigkeit ihres Standortes auf. [[1]](#src-1)
 
-Bezogen auf die Windgeschwindigkeit hält sich eisern das Gerücht, dass die Errichtung von Windkraftanlagen erst bei Geschwindigkeiten von mehr als 10 m/s auf Nabenhöhe (130 m) rentabel sei, da die Energieerträge bei niedrigeren Geschwindigkeiten zu gering wären. Derartige Windgeschwindigkeiten lassen sich jedoch – wenn überhaupt – nur an sehr guten Offshore-Standorten erreichen. Selbst Geschwindigkeiten von mehr als 7 m/s sind nur in Küstennähe zu erwarten. [1, Tabelle 3] Diese Aussage steht daher im Widerspruch zu den Gestehungskosten, die für Offshore-Anlagen deutlich höher ausfallen als für Onshore-Anlagen. [1, Abbildung 1] Der Grund hierfür ist, dass den hohen Volllast-Betriebsstunden von Offshore-Anlagen (bis zu 4500 h/a) wesentlich höhere, spezifische Anlagenkosten (3.000 – 4.000 €/kW) für Installation und Betrieb auf hoher See gegenüberstehen. Onshore-Anlagen liefern zwar nur 1800 – 4000 h/a Vollastbetrieb, kommen aber mit wesentlich geringeren spezifischen Anlagekosten (1.200 – 2.000 €/kW) aus. [1, Tabelle 1]
+Bezogen auf die Windgeschwindigkeit hält sich eisern das Gerücht, dass die Errichtung von Windkraftanlagen erst bei Geschwindigkeiten von mehr als 10 m/s auf Nabenhöhe (130 m) rentabel sei, da die Energieerträge bei niedrigeren Geschwindigkeiten zu gering wären. Derartige Windgeschwindigkeiten lassen sich jedoch – wenn überhaupt – nur an sehr guten Offshore-Standorten erreichen. Selbst Geschwindigkeiten von mehr als 7 m/s sind nur in Küstennähe zu erwarten. [[1]](#src-1) (Tabelle 3) Diese Aussage steht daher im Widerspruch zu den Gestehungskosten, die für Offshore-Anlagen deutlich höher ausfallen als für Onshore-Anlagen. [[1]](#src-1) (Abbildung 1) Der Grund hierfür ist, dass den hohen Volllast-Betriebsstunden von Offshore-Anlagen (bis zu 4500 h/a) wesentlich höhere, spezifische Anlagenkosten (3.000 – 4.000 €/kW) für Installation und Betrieb auf hoher See gegenüberstehen. Onshore-Anlagen liefern zwar nur 1800 – 4000 h/a Vollastbetrieb, kommen aber mit wesentlich geringeren spezifischen Anlagekosten (1.200 – 2.000 €/kW) aus. [[1]](#src-1) (Tabelle 1)
 
-Die zu erwartende Windgeschwindigkeit auf Nabenhöhe liegt in der Freigerichter Windvorrangfläche mit 5,75 – 6 m/s [2] tatsächlich eher am unteren Ende der in der ISE-Studie betrachteten Parameter von 5,5 – 10,3 m/s für Windenergieanlagen insgesamt, bezogen auf Onshore-Anlagen (5,5 – 7,8 m/s) eher im unteren Mittelfeld. [1, Tabelle 3]
+Die zu erwartende Windgeschwindigkeit auf Nabenhöhe liegt in der Freigerichter Windvorrangfläche mit 5,75 – 6 m/s [[2]](#src-2) tatsächlich eher am unteren Ende der in der ISE-Studie betrachteten Parameter von 5,5 – 10,3 m/s für Windenergieanlagen insgesamt, bezogen auf Onshore-Anlagen (5,5 – 7,8 m/s) eher im unteren Mittelfeld. [[1]](#src-1) (Tabelle 3)
 
-| Windenergieanlage (2&zwj;-&zwj;5MW) | Windgeschwindigkeit auf 120m Nabenhöhe \[m/s\] | Wind-Volllaststunden \[h\] | Stromerzeugung pro 1 kW \[kWh/a\] |
-| --- | ---:| ---:| ---:|
-| Onshore: Binnenland Deutschland | 5,5 | 1800 | 1800 |
-| Onshore: Norddeutschland | 6,4 | 2500 | 2500 |
-| Onshore: Küstennahe und windreiche Standorte Deutschland | 7,8 | 3200 | 3200 |
-| Offshore: geringe Entfernung von Küste | 7,8 | 3200 | 3200 |
-| Offshore: mittlere Entfernung von Küste | 8,7 | 3600 | 3600 |
-| Offshore: sehr gute Standorte | 10,3 | 4500 | 4500 |
+| Windenergieanlage (2&zwj;-&zwj;5MW)                      | Windgeschwindigkeit auf 120m Nabenhöhe \[m/s\] | Wind-Volllaststunden \[h\] | Stromerzeugung pro 1 kW \[kWh/a\] |
+| -------------------------------------------------------- | ---------------------------------------------: | -------------------------: | --------------------------------: |
+| Onshore: Binnenland Deutschland                          |                                            5,5 |                       1800 |                              1800 |
+| Onshore: Norddeutschland                                 |                                            6,4 |                       2500 |                              2500 |
+| Onshore: Küstennahe und windreiche Standorte Deutschland |                                            7,8 |                       3200 |                              3200 |
+| Offshore: geringe Entfernung von Küste                   |                                            7,8 |                       3200 |                              3200 |
+| Offshore: mittlere Entfernung von Küste                  |                                            8,7 |                       3600 |                              3600 |
+| Offshore: sehr gute Standorte                            |                                           10,3 |                       4500 |                              4500 |
 
-<table-caption>Tabelle 3: Jahreserträge an typischen Standorten von PV und Wind (Quelle: Fraunhofer ISE intern).</table-caption>
+<table-caption>[[1]](#src-1) (Tabelle 3): Jahreserträge an typischen Standorten von PV und Wind</table-caption>
 
 Anhand der Tabellenwerte lassen sich die zu erwartenden Wind-Vollaststunden für die Freigerichter Anlagen berechnen. Überträgt man die Tabellenwerte für ein Bestimmtheitsmaß von 1 auf ein Polynom 3. Grades, ergibt sich für die Vollaststunden die Funktion f(x) = 23,679x³ - 578,66x² + 5135,1x + 12876 mit der Windgeschwindigkeit als x. Angewendet auf die o.g. Freigerichter Windgeschwindigkeit ergeben sich damit abgerundet 2000 – 2200 h/a in Vollast-Betrieb.
 
@@ -68,6 +78,8 @@ Die Gestehungskosten für die Freigerichter Windkraftanlagen lägen damit selbst
 Hierbei ist zu ergänzen, dass die mit 6 m/s ausgewiesene Windvorrangfläche wahrscheinlich lediglich genug Platz für ein Windrad bietet. Weitere Anlagen würden also auf Flächen mit 5,75 m/s stehen. Insgesamt wirken sich jedoch die Lebensdauer und die (bislang nicht genau bekannten) Investitionskosten sehr viel stärker auf die Wirtschaftlichkeit der Anlagen aus als der konkrete Standort im Neuseser Wald und dessen Windgeschwindigkeit. Die Investitionskosten wiederum hängen u.a. stark von der Anzahl und Dimensionierung der Windkraftanlagen ab, auf deren Gesamtleistung sich dann die entstehenden Fixkosten (Genehmigung, Erschließung) verteilen. Es ist auch zu beachten, dass größere ökologische Eingriffe mit höheren Investitionskosten verbunden sind (mehr Rodungen, mehr Flächenebnung, ggf. zusätzliche Genehmigungsverfahren), weshalb deren Invasivität auch aus Investorensicht soweit möglich zu begrenzen ist. Der Bau von wenigeren, dafür größeren und damit leistungsfähigeren Anlagen, ist daher sowohl ökonomisch als auch ökologisch der sinnvollste Ansatz.
 
 {{< collapse "Im Detail: Berechnung f&uuml;r 25 Jahre Betriebsdauer" >}}
+[[1]](#src-1) (Seite 37)
+
 <table>
   <thead>
     <tr>
@@ -116,16 +128,16 @@ Die Anzahl und Dimensionierung der Windkraftanlagen wurden in der Berechnung nic
 
 <br />
 
-Hinsichtlich eines Vergleichs von Erneuerbaren Energien zu Konventionellen Kraftwerken sei zu erwähnen, dass die dieser Prüfung zugrunde liegende Gestehungskosten-Studie des ISE die Entsorgungskosten der unterschiedlichen Energietechnologien nicht in ihre Analyse einbezieht und hierzu auch keinerlei Aussage macht. Ebenso werden die Kosten für Umweltfolgeschäden der einzelnen Technologien nicht direkt betrachtet. Ursächlich hierfür dürfte sein, dass beide Kategorien nur schlecht quantifizierbar sind. Ein – wenn auch indirekter – Vergleich entsteht durch die CO2-Bepreisung, die in den Betriebskosten einkalkuliert ist [1, Tabelle 7]: So ergeben sich für bestehende, konventionelle Kraftwerke für 2021 Betriebskosten im unteren Bereich der Stromgestehungskosten für Wind- und Solaranlagen. Voraussichtlich 2030 übersteigen die Betriebskosten konventioneller Kraftwerke die Gestehungskosten Erneuerbarer, 2040 schließlich sogar um mehr als das Doppelte. [1, Abbildung 3]
+Hinsichtlich eines Vergleichs von Erneuerbaren Energien zu Konventionellen Kraftwerken sei zu erwähnen, dass die dieser Prüfung zugrunde liegende Gestehungskosten-Studie des ISE die Entsorgungskosten der unterschiedlichen Energietechnologien nicht in ihre Analyse einbezieht und hierzu auch keinerlei Aussage macht. Ebenso werden die Kosten für Umweltfolgeschäden der einzelnen Technologien nicht direkt betrachtet. Ursächlich hierfür dürfte sein, dass beide Kategorien nur schlecht quantifizierbar sind. Ein – wenn auch indirekter – Vergleich entsteht durch die CO2-Bepreisung, die in den Betriebskosten einkalkuliert ist [[1]](#src-1) (Tabelle 7): So ergeben sich für bestehende, konventionelle Kraftwerke für 2021 Betriebskosten im unteren Bereich der Stromgestehungskosten für Wind- und Solaranlagen. Voraussichtlich 2030 übersteigen die Betriebskosten konventioneller Kraftwerke die Gestehungskosten Erneuerbarer, 2040 schließlich sogar um mehr als das Doppelte. [[1]](#src-1) (Abbildung 3)
 
+<!-- TODO: quellen in Text verlinken -->
 
-
-9. {{< source-link 9 >}}
-  https://www.dwd.de/DE/presse/pressemitteilungen/DE/2018/20180306_pressemitteilung_klima_pk
-  {{< /source-link >}}
-10. {{< source-link 10 >}}
-  https://asr.copernicus.org/articles/16/119/2019/
-  {{< /source-link >}}
+1. {{< source-link 1 >}}
+   https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/studie-stromgestehungskosten-erneuerbare-energien.html|, Studie Juni 2021
+   {{< /source-link >}}
+2. {{< source-link 2 >}}
+   https://www.energieland.hessen.de/mm/Main_Kinzig_Kreis.pdf
+   {{< /source-link >}}
 
 <style>
   table-caption {
