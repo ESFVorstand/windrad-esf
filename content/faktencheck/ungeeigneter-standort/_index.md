@@ -9,6 +9,8 @@ draft: false
 # TODO: Bilderrechte checken
 ---
 
+# Ungeeigneter Standort
+
 ## Behauptung:
 >„In Freigericht weht gar nicht genug Wind. Potenzielle Betreiber sind nur auf die Fördergelder für die Anlagen aus.“
 
