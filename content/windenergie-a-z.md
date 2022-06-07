@@ -213,7 +213,7 @@ Die Vergütung der Windenergie wird durch das Erneuerbare-Energien-Gesetz (EEG) 
 ### Vergütungsmodelle
 Die meisten Industrienationen haben sich im Rahmen internationaler Vereinbarungen zur Reduktion ihres Schadstoffausstoßes verpflichtet und teilweise sehr engagierte Ausbauziele für die Nutzung der Erneuerbaren Energien festgesetzt. 
 
-### Vogel- und Fledermaus- Schutz
+### Vogel- und Fledermaus-Schutz
 20 Jahre Forschung zeigen eindeutig: Vögel kollidieren nicht in großer Zahl mit Windenergieanlagen. Auch eine langfristige Beeinträchtigung des Verhaltens der Vögel ist nicht zu beobachten. Die größte Gefahr für die Artenvielfalt geht vom Klimawandel aus. Zudem stellen andere menschliche Eingriffe in den Lebensraum der Vögel – wie Gebäude oder der Straßenverkehr – eine weitaus größere Gefahr dar. 
 
 ## W
