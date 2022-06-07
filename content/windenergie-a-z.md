@@ -36,7 +36,9 @@ CO2-Emissionen bezeichnen den Ausstoß von Kohlenstoffdioxid, einem stark wirksa
 ### Dänische Konzept
 
 Johannes Juul, ein dänischer Ingenieur, entwickelte in den 1950er Jahren das sogenannte „Dänische Konzept“. Der Ingenieur bewies großen Forschergeist, als er seinem letzten Lebensquartal die Windenergie revolutionierte.
+  
 Die erste der Windanlagen nach dem „Dänischen Konzept“ wurde 1956/57 in Gedser, einem der windhöffigsten Gebiete der dänischen Ostsee gebaut. Sie hatte eine Nennleistung von 200 KW und war für lange Zeit die größte der Welt.
+  
 Charakteristisch für das dänische Konzept sind drei Rotorblätter, die Luvläufer sind, Stallregelung und die direkte Netzeinspeisung. Letztere bedingt, dass der Rotor mit einer festen Drehzahl arbeiten muss, um die vom elektrischen Netz vorgegebene Frequenz zu erzielen (50 Hertz in Europa).
 
 
@@ -78,8 +80,7 @@ Jede Form der Energiegewinnung verursacht Folgekosten, die der Stromproduzent ni
 
 ### Fossile Brennstoffe
 
-Fossile Brennstoffe sind tote Biomasse, die vor Jahrmillionen abgestorben ist und durch geologische Prozesse in Kohle, Erdöl und Erdgas sowie verschiedene
-Mischprodukte wie Öl-Sande oder Ölschiefer umgewandelt wurde. Der natürlich auf der Erde vorkommende Kernbrennstoff Uran kann ebenfalls zu den fossilen Energien gezählt werden, da er nicht nachgebildet wird. Das Gegenstück zu den fossilen Energien (inklusive Uran) sind die sogenannten erneuerbaren Energien. Sie zeichnen sich dadurch aus, dass ihre Energiequelle sich in absehbarer Zeit selbst erneuert oder aber durch die Nutzung nicht versiegt.
+Fossile Brennstoffe sind tote Biomasse, die vor Jahrmillionen abgestorben ist und durch geologische Prozesse in Kohle, Erdöl und Erdgas sowie verschiedene Mischprodukte wie Öl-Sande oder Ölschiefer umgewandelt wurde. Der natürlich auf der Erde vorkommende Kernbrennstoff Uran kann ebenfalls zu den fossilen Energien gezählt werden, da er nicht nachgebildet wird. Das Gegenstück zu den fossilen Energien (inklusive Uran) sind die sogenannten erneuerbaren Energien. Sie zeichnen sich dadurch aus, dass ihre Energiequelle sich in absehbarer Zeit selbst erneuert oder aber durch die Nutzung nicht versiegt.
 
 ## G
 
@@ -234,8 +235,7 @@ Eine Windklasse wird in der IEC 61400-1 definiert. Mit den IEC-Windklassen kann 
 
 ### Windkraftanlagen WKA
 
-Eine Windkraftanlage oder Windenergieanlage wandelt     
-die Bewegungsenergie des Windes in elektrische Energie um und speist sie in ein Stromnetz ein. 
+Eine Windkraftanlage oder Windenergieanlage wandelt die Bewegungsenergie des Windes in elektrische Energie um und speist sie in ein Stromnetz ein. 
 
 
 ### Windrichtung
