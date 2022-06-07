@@ -152,6 +152,11 @@ name = "Faktencheck"
 url = "categories/faktencheck/"
 weight = 4
 
+[[menu.main]]
+name = "A - Z"
+url = "windenergie-a-z/"
+weight = 5
+
 #[[menu.main]]
 #weight = 6
 #url = "#"
