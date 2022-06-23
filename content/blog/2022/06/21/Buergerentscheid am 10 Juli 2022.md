@@ -33,7 +33,9 @@ Für Dienstag, den 05.07.22 um 19:00 Uhr laden wir die Bürgerinnen und Bürger 
 
 Unser Mitglied, Herr Holger Marquardt, informiert ausführlich zum Thema Windenergie und beantwortet gerne Fragen hierzu.
 
+
 Birgit Hertlein
+
 Vorsitzende Arbeitsgruppe Windenergie 
 des Energiestammtisches Freigericht e.V.
 
