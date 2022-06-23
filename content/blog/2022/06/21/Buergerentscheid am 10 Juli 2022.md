@@ -1,7 +1,7 @@
 ---
 title: "Bürgerentscheid am 10.Juli 2022"
 image: "images/blog/2128_xl.jpg"
-date: 2022-06-01T12:00:00+05:00
+date: 2022-06-21T12:00:00+05:00
 author: "Energie Stammtisch Freigericht"
 tags: ["Windenergie", "Freigericht"]
 categories: ["Windenergie", "Freigericht"]
