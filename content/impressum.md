@@ -44,7 +44,7 @@ Freigericht-Somborn</p>
 
 <h2>Kontakt</h2>
 <p>Telefon: +49 174 3254551<br />
-E-Mail: jk@energie-stammtisch-freigericht.de</p>
+E-Mail: hm@energie-stammtisch-freigericht.de</p>
 
 <h2>Redaktionell verantwortlich</h2>
 <p>Holger Marquardt<br />
