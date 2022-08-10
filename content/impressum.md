@@ -10,42 +10,46 @@ draft: false
 eine Initiative des</p>
 
 <p><a href="https://www.energie-stammtisch-freigericht.de" target="_blank">En&shy;er&shy;gie-Stamm&shy;tisch Frei&shy;ge&shy;richt e.V.</a><br />
-Am Südhang 6<br />
-63579 Freigericht</p>
+Im Schwalbengrund 40<br />
+63579 Freigericht-Somborn<br />
+Tel.: +49 174 3254551</p>
 
 <p>Vereinsregister: VR32227<br />
 Registergericht: Amtsgericht Hanau</p>
 
+<p>Gläubiger-Identifikationsnummer:<br />         
+DE83ZZZ00001969127</p>
+
 <p><strong>Vertreten durch:</strong><br />
 1. Vorsitzender:<br />
-Josef Keller<br />
-jk@energie-stammtisch-freigericht.de<br />
-+49 6055 93 86 920<br />
-Freigericht<br />
+Holger Marquardt<br />
+hm@energie-stammtisch-freigericht.de<br />
++49 174 3254551<br />
+Freigericht-Somborn<br />
 <br />
 2. Vorsitzender:<br />
 Thomas Franz<br />
 tf@energie-stammtisch-freigericht.de<br />
-Freigericht<br />
+Freigericht-Horbach<br />
 <br />
 Schriftführer:<br />
-Anton Habermann<br />
-th@energie-stammtisch-freigericht.de<br />
-Freigericht<br />
+Lukas Franz<br />
+lf@energie-stammtisch-freigericht.de<br />
+Freigericht-Horbach<br />
 <br />
 Kassierer:<br />
 Norbert Baum<br />
-info@energie-stammtisch-freigericht.de<br />
-Freigericht</p>
+nb@energie-stammtisch-freigericht.de<br />
+Freigericht-Somborn</p>
 
 <h2>Kontakt</h2>
-<p>Telefon: +49 6055 93 86 920<br />
+<p>Telefon: +49 174 3254551<br />
 E-Mail: jk@energie-stammtisch-freigericht.de</p>
 
 <h2>Redaktionell verantwortlich</h2>
-<p>Josef Keller<br />
-Am Südhang 6<br />
-63579 Freigericht</p>
+<p>Holger Marquardt<br />
+Im Schwalbengrund 40<br />
+63579 Freigericht-Somborn</p>
 
 <h2>EU-Streitschlichtung</h2>
 <p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr/</a>.<br /> Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>
